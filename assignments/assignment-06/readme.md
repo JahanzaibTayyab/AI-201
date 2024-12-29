@@ -1,4 +1,4 @@
-**Assignment: Exploring LLM Models for Creative Video Generation and Script Analysis**
+# Assignment: Exploring LLM Models for Creative Video Generation and Script Analysis**
 
 **Objective:**  
 The goal of this assignment is to explore the capabilities of Large Language Models (LLMs) in generating creative content. Students will use an LLM to generate a video based on a creative prompt, save the generated video, and analyze it using Gemini LLM to produce a script with a detailed timeline.
@@ -63,7 +63,7 @@ The goal of this assignment is to explore the capabilities of Large Language Mod
 **Bonus:**  
 Earn 1 bonus point for including a reflection on the experience of using LangChain and LLMs for video generation and analysis. What were the challenges? What did you learn?
 
-**Submission Deadline:** [Insert Deadline Here]
+**Submission Deadline:** [05/01/2025]
 
 **Important Notes:**
 
