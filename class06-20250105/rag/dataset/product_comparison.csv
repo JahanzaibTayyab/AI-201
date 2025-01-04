@@ -1,0 +1,1001 @@
+Product Name,Category,Features,Price,Rating
+Product 1,Electronics,"Feature 1, Feature 2, Feature 3",$105,4.1
+Product 2,Clothing,"Feature 2, Feature 3, Feature 4",$110,4.2
+Product 3,Home Appliances,"Feature 3, Feature 4, Feature 5",$115,4.3
+Product 4,Books,"Feature 4, Feature 5, Feature 6",$120,4.4
+Product 5,Toys,"Feature 5, Feature 6, Feature 7",$125,4.0
+Product 6,Electronics,"Feature 6, Feature 7, Feature 8",$130,4.1
+Product 7,Clothing,"Feature 7, Feature 8, Feature 9",$135,4.2
+Product 8,Home Appliances,"Feature 8, Feature 9, Feature 10",$140,4.3
+Product 9,Books,"Feature 9, Feature 10, Feature 11",$145,4.4
+Product 10,Toys,"Feature 10, Feature 11, Feature 12",$150,4.0
+Product 11,Electronics,"Feature 11, Feature 12, Feature 13",$155,4.1
+Product 12,Clothing,"Feature 12, Feature 13, Feature 14",$160,4.2
+Product 13,Home Appliances,"Feature 13, Feature 14, Feature 15",$165,4.3
+Product 14,Books,"Feature 14, Feature 15, Feature 16",$170,4.4
+Product 15,Toys,"Feature 15, Feature 16, Feature 17",$175,4.0
+Product 16,Electronics,"Feature 16, Feature 17, Feature 18",$180,4.1
+Product 17,Clothing,"Feature 17, Feature 18, Feature 19",$185,4.2
+Product 18,Home Appliances,"Feature 18, Feature 19, Feature 20",$190,4.3
+Product 19,Books,"Feature 19, Feature 20, Feature 21",$195,4.4
+Product 20,Toys,"Feature 20, Feature 21, Feature 22",$200,4.0
+Product 21,Electronics,"Feature 21, Feature 22, Feature 23",$205,4.1
+Product 22,Clothing,"Feature 22, Feature 23, Feature 24",$210,4.2
+Product 23,Home Appliances,"Feature 23, Feature 24, Feature 25",$215,4.3
+Product 24,Books,"Feature 24, Feature 25, Feature 26",$220,4.4
+Product 25,Toys,"Feature 25, Feature 26, Feature 27",$225,4.0
+Product 26,Electronics,"Feature 26, Feature 27, Feature 28",$230,4.1
+Product 27,Clothing,"Feature 27, Feature 28, Feature 29",$235,4.2
+Product 28,Home Appliances,"Feature 28, Feature 29, Feature 30",$240,4.3
+Product 29,Books,"Feature 29, Feature 30, Feature 31",$245,4.4
+Product 30,Toys,"Feature 30, Feature 31, Feature 32",$250,4.0
+Product 31,Electronics,"Feature 31, Feature 32, Feature 33",$255,4.1
+Product 32,Clothing,"Feature 32, Feature 33, Feature 34",$260,4.2
+Product 33,Home Appliances,"Feature 33, Feature 34, Feature 35",$265,4.3
+Product 34,Books,"Feature 34, Feature 35, Feature 36",$270,4.4
+Product 35,Toys,"Feature 35, Feature 36, Feature 37",$275,4.0
+Product 36,Electronics,"Feature 36, Feature 37, Feature 38",$280,4.1
+Product 37,Clothing,"Feature 37, Feature 38, Feature 39",$285,4.2
+Product 38,Home Appliances,"Feature 38, Feature 39, Feature 40",$290,4.3
+Product 39,Books,"Feature 39, Feature 40, Feature 41",$295,4.4
+Product 40,Toys,"Feature 40, Feature 41, Feature 42",$300,4.0
+Product 41,Electronics,"Feature 41, Feature 42, Feature 43",$305,4.1
+Product 42,Clothing,"Feature 42, Feature 43, Feature 44",$310,4.2
+Product 43,Home Appliances,"Feature 43, Feature 44, Feature 45",$315,4.3
+Product 44,Books,"Feature 44, Feature 45, Feature 46",$320,4.4
+Product 45,Toys,"Feature 45, Feature 46, Feature 47",$325,4.0
+Product 46,Electronics,"Feature 46, Feature 47, Feature 48",$330,4.1
+Product 47,Clothing,"Feature 47, Feature 48, Feature 49",$335,4.2
+Product 48,Home Appliances,"Feature 48, Feature 49, Feature 50",$340,4.3
+Product 49,Books,"Feature 49, Feature 50, Feature 51",$345,4.4
+Product 50,Toys,"Feature 50, Feature 51, Feature 52",$350,4.0
+Product 51,Electronics,"Feature 51, Feature 52, Feature 53",$355,4.1
+Product 52,Clothing,"Feature 52, Feature 53, Feature 54",$360,4.2
+Product 53,Home Appliances,"Feature 53, Feature 54, Feature 55",$365,4.3
+Product 54,Books,"Feature 54, Feature 55, Feature 56",$370,4.4
+Product 55,Toys,"Feature 55, Feature 56, Feature 57",$375,4.0
+Product 56,Electronics,"Feature 56, Feature 57, Feature 58",$380,4.1
+Product 57,Clothing,"Feature 57, Feature 58, Feature 59",$385,4.2
+Product 58,Home Appliances,"Feature 58, Feature 59, Feature 60",$390,4.3
+Product 59,Books,"Feature 59, Feature 60, Feature 61",$395,4.4
+Product 60,Toys,"Feature 60, Feature 61, Feature 62",$400,4.0
+Product 61,Electronics,"Feature 61, Feature 62, Feature 63",$405,4.1
+Product 62,Clothing,"Feature 62, Feature 63, Feature 64",$410,4.2
+Product 63,Home Appliances,"Feature 63, Feature 64, Feature 65",$415,4.3
+Product 64,Books,"Feature 64, Feature 65, Feature 66",$420,4.4
+Product 65,Toys,"Feature 65, Feature 66, Feature 67",$425,4.0
+Product 66,Electronics,"Feature 66, Feature 67, Feature 68",$430,4.1
+Product 67,Clothing,"Feature 67, Feature 68, Feature 69",$435,4.2
+Product 68,Home Appliances,"Feature 68, Feature 69, Feature 70",$440,4.3
+Product 69,Books,"Feature 69, Feature 70, Feature 71",$445,4.4
+Product 70,Toys,"Feature 70, Feature 71, Feature 72",$450,4.0
+Product 71,Electronics,"Feature 71, Feature 72, Feature 73",$455,4.1
+Product 72,Clothing,"Feature 72, Feature 73, Feature 74",$460,4.2
+Product 73,Home Appliances,"Feature 73, Feature 74, Feature 75",$465,4.3
+Product 74,Books,"Feature 74, Feature 75, Feature 76",$470,4.4
+Product 75,Toys,"Feature 75, Feature 76, Feature 77",$475,4.0
+Product 76,Electronics,"Feature 76, Feature 77, Feature 78",$480,4.1
+Product 77,Clothing,"Feature 77, Feature 78, Feature 79",$485,4.2
+Product 78,Home Appliances,"Feature 78, Feature 79, Feature 80",$490,4.3
+Product 79,Books,"Feature 79, Feature 80, Feature 81",$495,4.4
+Product 80,Toys,"Feature 80, Feature 81, Feature 82",$500,4.0
+Product 81,Electronics,"Feature 81, Feature 82, Feature 83",$505,4.1
+Product 82,Clothing,"Feature 82, Feature 83, Feature 84",$510,4.2
+Product 83,Home Appliances,"Feature 83, Feature 84, Feature 85",$515,4.3
+Product 84,Books,"Feature 84, Feature 85, Feature 86",$520,4.4
+Product 85,Toys,"Feature 85, Feature 86, Feature 87",$525,4.0
+Product 86,Electronics,"Feature 86, Feature 87, Feature 88",$530,4.1
+Product 87,Clothing,"Feature 87, Feature 88, Feature 89",$535,4.2
+Product 88,Home Appliances,"Feature 88, Feature 89, Feature 90",$540,4.3
+Product 89,Books,"Feature 89, Feature 90, Feature 91",$545,4.4
+Product 90,Toys,"Feature 90, Feature 91, Feature 92",$550,4.0
+Product 91,Electronics,"Feature 91, Feature 92, Feature 93",$555,4.1
+Product 92,Clothing,"Feature 92, Feature 93, Feature 94",$560,4.2
+Product 93,Home Appliances,"Feature 93, Feature 94, Feature 95",$565,4.3
+Product 94,Books,"Feature 94, Feature 95, Feature 96",$570,4.4
+Product 95,Toys,"Feature 95, Feature 96, Feature 97",$575,4.0
+Product 96,Electronics,"Feature 96, Feature 97, Feature 98",$580,4.1
+Product 97,Clothing,"Feature 97, Feature 98, Feature 99",$585,4.2
+Product 98,Home Appliances,"Feature 98, Feature 99, Feature 100",$590,4.3
+Product 99,Books,"Feature 99, Feature 100, Feature 101",$595,4.4
+Product 100,Toys,"Feature 100, Feature 101, Feature 102",$600,4.0
+Product 101,Electronics,"Feature 101, Feature 102, Feature 103",$605,4.1
+Product 102,Clothing,"Feature 102, Feature 103, Feature 104",$610,4.2
+Product 103,Home Appliances,"Feature 103, Feature 104, Feature 105",$615,4.3
+Product 104,Books,"Feature 104, Feature 105, Feature 106",$620,4.4
+Product 105,Toys,"Feature 105, Feature 106, Feature 107",$625,4.0
+Product 106,Electronics,"Feature 106, Feature 107, Feature 108",$630,4.1
+Product 107,Clothing,"Feature 107, Feature 108, Feature 109",$635,4.2
+Product 108,Home Appliances,"Feature 108, Feature 109, Feature 110",$640,4.3
+Product 109,Books,"Feature 109, Feature 110, Feature 111",$645,4.4
+Product 110,Toys,"Feature 110, Feature 111, Feature 112",$650,4.0
+Product 111,Electronics,"Feature 111, Feature 112, Feature 113",$655,4.1
+Product 112,Clothing,"Feature 112, Feature 113, Feature 114",$660,4.2
+Product 113,Home Appliances,"Feature 113, Feature 114, Feature 115",$665,4.3
+Product 114,Books,"Feature 114, Feature 115, Feature 116",$670,4.4
+Product 115,Toys,"Feature 115, Feature 116, Feature 117",$675,4.0
+Product 116,Electronics,"Feature 116, Feature 117, Feature 118",$680,4.1
+Product 117,Clothing,"Feature 117, Feature 118, Feature 119",$685,4.2
+Product 118,Home Appliances,"Feature 118, Feature 119, Feature 120",$690,4.3
+Product 119,Books,"Feature 119, Feature 120, Feature 121",$695,4.4
+Product 120,Toys,"Feature 120, Feature 121, Feature 122",$700,4.0
+Product 121,Electronics,"Feature 121, Feature 122, Feature 123",$705,4.1
+Product 122,Clothing,"Feature 122, Feature 123, Feature 124",$710,4.2
+Product 123,Home Appliances,"Feature 123, Feature 124, Feature 125",$715,4.3
+Product 124,Books,"Feature 124, Feature 125, Feature 126",$720,4.4
+Product 125,Toys,"Feature 125, Feature 126, Feature 127",$725,4.0
+Product 126,Electronics,"Feature 126, Feature 127, Feature 128",$730,4.1
+Product 127,Clothing,"Feature 127, Feature 128, Feature 129",$735,4.2
+Product 128,Home Appliances,"Feature 128, Feature 129, Feature 130",$740,4.3
+Product 129,Books,"Feature 129, Feature 130, Feature 131",$745,4.4
+Product 130,Toys,"Feature 130, Feature 131, Feature 132",$750,4.0
+Product 131,Electronics,"Feature 131, Feature 132, Feature 133",$755,4.1
+Product 132,Clothing,"Feature 132, Feature 133, Feature 134",$760,4.2
+Product 133,Home Appliances,"Feature 133, Feature 134, Feature 135",$765,4.3
+Product 134,Books,"Feature 134, Feature 135, Feature 136",$770,4.4
+Product 135,Toys,"Feature 135, Feature 136, Feature 137",$775,4.0
+Product 136,Electronics,"Feature 136, Feature 137, Feature 138",$780,4.1
+Product 137,Clothing,"Feature 137, Feature 138, Feature 139",$785,4.2
+Product 138,Home Appliances,"Feature 138, Feature 139, Feature 140",$790,4.3
+Product 139,Books,"Feature 139, Feature 140, Feature 141",$795,4.4
+Product 140,Toys,"Feature 140, Feature 141, Feature 142",$800,4.0
+Product 141,Electronics,"Feature 141, Feature 142, Feature 143",$805,4.1
+Product 142,Clothing,"Feature 142, Feature 143, Feature 144",$810,4.2
+Product 143,Home Appliances,"Feature 143, Feature 144, Feature 145",$815,4.3
+Product 144,Books,"Feature 144, Feature 145, Feature 146",$820,4.4
+Product 145,Toys,"Feature 145, Feature 146, Feature 147",$825,4.0
+Product 146,Electronics,"Feature 146, Feature 147, Feature 148",$830,4.1
+Product 147,Clothing,"Feature 147, Feature 148, Feature 149",$835,4.2
+Product 148,Home Appliances,"Feature 148, Feature 149, Feature 150",$840,4.3
+Product 149,Books,"Feature 149, Feature 150, Feature 151",$845,4.4
+Product 150,Toys,"Feature 150, Feature 151, Feature 152",$850,4.0
+Product 151,Electronics,"Feature 151, Feature 152, Feature 153",$855,4.1
+Product 152,Clothing,"Feature 152, Feature 153, Feature 154",$860,4.2
+Product 153,Home Appliances,"Feature 153, Feature 154, Feature 155",$865,4.3
+Product 154,Books,"Feature 154, Feature 155, Feature 156",$870,4.4
+Product 155,Toys,"Feature 155, Feature 156, Feature 157",$875,4.0
+Product 156,Electronics,"Feature 156, Feature 157, Feature 158",$880,4.1
+Product 157,Clothing,"Feature 157, Feature 158, Feature 159",$885,4.2
+Product 158,Home Appliances,"Feature 158, Feature 159, Feature 160",$890,4.3
+Product 159,Books,"Feature 159, Feature 160, Feature 161",$895,4.4
+Product 160,Toys,"Feature 160, Feature 161, Feature 162",$900,4.0
+Product 161,Electronics,"Feature 161, Feature 162, Feature 163",$905,4.1
+Product 162,Clothing,"Feature 162, Feature 163, Feature 164",$910,4.2
+Product 163,Home Appliances,"Feature 163, Feature 164, Feature 165",$915,4.3
+Product 164,Books,"Feature 164, Feature 165, Feature 166",$920,4.4
+Product 165,Toys,"Feature 165, Feature 166, Feature 167",$925,4.0
+Product 166,Electronics,"Feature 166, Feature 167, Feature 168",$930,4.1
+Product 167,Clothing,"Feature 167, Feature 168, Feature 169",$935,4.2
+Product 168,Home Appliances,"Feature 168, Feature 169, Feature 170",$940,4.3
+Product 169,Books,"Feature 169, Feature 170, Feature 171",$945,4.4
+Product 170,Toys,"Feature 170, Feature 171, Feature 172",$950,4.0
+Product 171,Electronics,"Feature 171, Feature 172, Feature 173",$955,4.1
+Product 172,Clothing,"Feature 172, Feature 173, Feature 174",$960,4.2
+Product 173,Home Appliances,"Feature 173, Feature 174, Feature 175",$965,4.3
+Product 174,Books,"Feature 174, Feature 175, Feature 176",$970,4.4
+Product 175,Toys,"Feature 175, Feature 176, Feature 177",$975,4.0
+Product 176,Electronics,"Feature 176, Feature 177, Feature 178",$980,4.1
+Product 177,Clothing,"Feature 177, Feature 178, Feature 179",$985,4.2
+Product 178,Home Appliances,"Feature 178, Feature 179, Feature 180",$990,4.3
+Product 179,Books,"Feature 179, Feature 180, Feature 181",$995,4.4
+Product 180,Toys,"Feature 180, Feature 181, Feature 182",$1000,4.0
+Product 181,Electronics,"Feature 181, Feature 182, Feature 183",$1005,4.1
+Product 182,Clothing,"Feature 182, Feature 183, Feature 184",$1010,4.2
+Product 183,Home Appliances,"Feature 183, Feature 184, Feature 185",$1015,4.3
+Product 184,Books,"Feature 184, Feature 185, Feature 186",$1020,4.4
+Product 185,Toys,"Feature 185, Feature 186, Feature 187",$1025,4.0
+Product 186,Electronics,"Feature 186, Feature 187, Feature 188",$1030,4.1
+Product 187,Clothing,"Feature 187, Feature 188, Feature 189",$1035,4.2
+Product 188,Home Appliances,"Feature 188, Feature 189, Feature 190",$1040,4.3
+Product 189,Books,"Feature 189, Feature 190, Feature 191",$1045,4.4
+Product 190,Toys,"Feature 190, Feature 191, Feature 192",$1050,4.0
+Product 191,Electronics,"Feature 191, Feature 192, Feature 193",$1055,4.1
+Product 192,Clothing,"Feature 192, Feature 193, Feature 194",$1060,4.2
+Product 193,Home Appliances,"Feature 193, Feature 194, Feature 195",$1065,4.3
+Product 194,Books,"Feature 194, Feature 195, Feature 196",$1070,4.4
+Product 195,Toys,"Feature 195, Feature 196, Feature 197",$1075,4.0
+Product 196,Electronics,"Feature 196, Feature 197, Feature 198",$1080,4.1
+Product 197,Clothing,"Feature 197, Feature 198, Feature 199",$1085,4.2
+Product 198,Home Appliances,"Feature 198, Feature 199, Feature 200",$1090,4.3
+Product 199,Books,"Feature 199, Feature 200, Feature 201",$1095,4.4
+Product 200,Toys,"Feature 200, Feature 201, Feature 202",$1100,4.0
+Product 201,Electronics,"Feature 201, Feature 202, Feature 203",$1105,4.1
+Product 202,Clothing,"Feature 202, Feature 203, Feature 204",$1110,4.2
+Product 203,Home Appliances,"Feature 203, Feature 204, Feature 205",$1115,4.3
+Product 204,Books,"Feature 204, Feature 205, Feature 206",$1120,4.4
+Product 205,Toys,"Feature 205, Feature 206, Feature 207",$1125,4.0
+Product 206,Electronics,"Feature 206, Feature 207, Feature 208",$1130,4.1
+Product 207,Clothing,"Feature 207, Feature 208, Feature 209",$1135,4.2
+Product 208,Home Appliances,"Feature 208, Feature 209, Feature 210",$1140,4.3
+Product 209,Books,"Feature 209, Feature 210, Feature 211",$1145,4.4
+Product 210,Toys,"Feature 210, Feature 211, Feature 212",$1150,4.0
+Product 211,Electronics,"Feature 211, Feature 212, Feature 213",$1155,4.1
+Product 212,Clothing,"Feature 212, Feature 213, Feature 214",$1160,4.2
+Product 213,Home Appliances,"Feature 213, Feature 214, Feature 215",$1165,4.3
+Product 214,Books,"Feature 214, Feature 215, Feature 216",$1170,4.4
+Product 215,Toys,"Feature 215, Feature 216, Feature 217",$1175,4.0
+Product 216,Electronics,"Feature 216, Feature 217, Feature 218",$1180,4.1
+Product 217,Clothing,"Feature 217, Feature 218, Feature 219",$1185,4.2
+Product 218,Home Appliances,"Feature 218, Feature 219, Feature 220",$1190,4.3
+Product 219,Books,"Feature 219, Feature 220, Feature 221",$1195,4.4
+Product 220,Toys,"Feature 220, Feature 221, Feature 222",$1200,4.0
+Product 221,Electronics,"Feature 221, Feature 222, Feature 223",$1205,4.1
+Product 222,Clothing,"Feature 222, Feature 223, Feature 224",$1210,4.2
+Product 223,Home Appliances,"Feature 223, Feature 224, Feature 225",$1215,4.3
+Product 224,Books,"Feature 224, Feature 225, Feature 226",$1220,4.4
+Product 225,Toys,"Feature 225, Feature 226, Feature 227",$1225,4.0
+Product 226,Electronics,"Feature 226, Feature 227, Feature 228",$1230,4.1
+Product 227,Clothing,"Feature 227, Feature 228, Feature 229",$1235,4.2
+Product 228,Home Appliances,"Feature 228, Feature 229, Feature 230",$1240,4.3
+Product 229,Books,"Feature 229, Feature 230, Feature 231",$1245,4.4
+Product 230,Toys,"Feature 230, Feature 231, Feature 232",$1250,4.0
+Product 231,Electronics,"Feature 231, Feature 232, Feature 233",$1255,4.1
+Product 232,Clothing,"Feature 232, Feature 233, Feature 234",$1260,4.2
+Product 233,Home Appliances,"Feature 233, Feature 234, Feature 235",$1265,4.3
+Product 234,Books,"Feature 234, Feature 235, Feature 236",$1270,4.4
+Product 235,Toys,"Feature 235, Feature 236, Feature 237",$1275,4.0
+Product 236,Electronics,"Feature 236, Feature 237, Feature 238",$1280,4.1
+Product 237,Clothing,"Feature 237, Feature 238, Feature 239",$1285,4.2
+Product 238,Home Appliances,"Feature 238, Feature 239, Feature 240",$1290,4.3
+Product 239,Books,"Feature 239, Feature 240, Feature 241",$1295,4.4
+Product 240,Toys,"Feature 240, Feature 241, Feature 242",$1300,4.0
+Product 241,Electronics,"Feature 241, Feature 242, Feature 243",$1305,4.1
+Product 242,Clothing,"Feature 242, Feature 243, Feature 244",$1310,4.2
+Product 243,Home Appliances,"Feature 243, Feature 244, Feature 245",$1315,4.3
+Product 244,Books,"Feature 244, Feature 245, Feature 246",$1320,4.4
+Product 245,Toys,"Feature 245, Feature 246, Feature 247",$1325,4.0
+Product 246,Electronics,"Feature 246, Feature 247, Feature 248",$1330,4.1
+Product 247,Clothing,"Feature 247, Feature 248, Feature 249",$1335,4.2
+Product 248,Home Appliances,"Feature 248, Feature 249, Feature 250",$1340,4.3
+Product 249,Books,"Feature 249, Feature 250, Feature 251",$1345,4.4
+Product 250,Toys,"Feature 250, Feature 251, Feature 252",$1350,4.0
+Product 251,Electronics,"Feature 251, Feature 252, Feature 253",$1355,4.1
+Product 252,Clothing,"Feature 252, Feature 253, Feature 254",$1360,4.2
+Product 253,Home Appliances,"Feature 253, Feature 254, Feature 255",$1365,4.3
+Product 254,Books,"Feature 254, Feature 255, Feature 256",$1370,4.4
+Product 255,Toys,"Feature 255, Feature 256, Feature 257",$1375,4.0
+Product 256,Electronics,"Feature 256, Feature 257, Feature 258",$1380,4.1
+Product 257,Clothing,"Feature 257, Feature 258, Feature 259",$1385,4.2
+Product 258,Home Appliances,"Feature 258, Feature 259, Feature 260",$1390,4.3
+Product 259,Books,"Feature 259, Feature 260, Feature 261",$1395,4.4
+Product 260,Toys,"Feature 260, Feature 261, Feature 262",$1400,4.0
+Product 261,Electronics,"Feature 261, Feature 262, Feature 263",$1405,4.1
+Product 262,Clothing,"Feature 262, Feature 263, Feature 264",$1410,4.2
+Product 263,Home Appliances,"Feature 263, Feature 264, Feature 265",$1415,4.3
+Product 264,Books,"Feature 264, Feature 265, Feature 266",$1420,4.4
+Product 265,Toys,"Feature 265, Feature 266, Feature 267",$1425,4.0
+Product 266,Electronics,"Feature 266, Feature 267, Feature 268",$1430,4.1
+Product 267,Clothing,"Feature 267, Feature 268, Feature 269",$1435,4.2
+Product 268,Home Appliances,"Feature 268, Feature 269, Feature 270",$1440,4.3
+Product 269,Books,"Feature 269, Feature 270, Feature 271",$1445,4.4
+Product 270,Toys,"Feature 270, Feature 271, Feature 272",$1450,4.0
+Product 271,Electronics,"Feature 271, Feature 272, Feature 273",$1455,4.1
+Product 272,Clothing,"Feature 272, Feature 273, Feature 274",$1460,4.2
+Product 273,Home Appliances,"Feature 273, Feature 274, Feature 275",$1465,4.3
+Product 274,Books,"Feature 274, Feature 275, Feature 276",$1470,4.4
+Product 275,Toys,"Feature 275, Feature 276, Feature 277",$1475,4.0
+Product 276,Electronics,"Feature 276, Feature 277, Feature 278",$1480,4.1
+Product 277,Clothing,"Feature 277, Feature 278, Feature 279",$1485,4.2
+Product 278,Home Appliances,"Feature 278, Feature 279, Feature 280",$1490,4.3
+Product 279,Books,"Feature 279, Feature 280, Feature 281",$1495,4.4
+Product 280,Toys,"Feature 280, Feature 281, Feature 282",$1500,4.0
+Product 281,Electronics,"Feature 281, Feature 282, Feature 283",$1505,4.1
+Product 282,Clothing,"Feature 282, Feature 283, Feature 284",$1510,4.2
+Product 283,Home Appliances,"Feature 283, Feature 284, Feature 285",$1515,4.3
+Product 284,Books,"Feature 284, Feature 285, Feature 286",$1520,4.4
+Product 285,Toys,"Feature 285, Feature 286, Feature 287",$1525,4.0
+Product 286,Electronics,"Feature 286, Feature 287, Feature 288",$1530,4.1
+Product 287,Clothing,"Feature 287, Feature 288, Feature 289",$1535,4.2
+Product 288,Home Appliances,"Feature 288, Feature 289, Feature 290",$1540,4.3
+Product 289,Books,"Feature 289, Feature 290, Feature 291",$1545,4.4
+Product 290,Toys,"Feature 290, Feature 291, Feature 292",$1550,4.0
+Product 291,Electronics,"Feature 291, Feature 292, Feature 293",$1555,4.1
+Product 292,Clothing,"Feature 292, Feature 293, Feature 294",$1560,4.2
+Product 293,Home Appliances,"Feature 293, Feature 294, Feature 295",$1565,4.3
+Product 294,Books,"Feature 294, Feature 295, Feature 296",$1570,4.4
+Product 295,Toys,"Feature 295, Feature 296, Feature 297",$1575,4.0
+Product 296,Electronics,"Feature 296, Feature 297, Feature 298",$1580,4.1
+Product 297,Clothing,"Feature 297, Feature 298, Feature 299",$1585,4.2
+Product 298,Home Appliances,"Feature 298, Feature 299, Feature 300",$1590,4.3
+Product 299,Books,"Feature 299, Feature 300, Feature 301",$1595,4.4
+Product 300,Toys,"Feature 300, Feature 301, Feature 302",$1600,4.0
+Product 301,Electronics,"Feature 301, Feature 302, Feature 303",$1605,4.1
+Product 302,Clothing,"Feature 302, Feature 303, Feature 304",$1610,4.2
+Product 303,Home Appliances,"Feature 303, Feature 304, Feature 305",$1615,4.3
+Product 304,Books,"Feature 304, Feature 305, Feature 306",$1620,4.4
+Product 305,Toys,"Feature 305, Feature 306, Feature 307",$1625,4.0
+Product 306,Electronics,"Feature 306, Feature 307, Feature 308",$1630,4.1
+Product 307,Clothing,"Feature 307, Feature 308, Feature 309",$1635,4.2
+Product 308,Home Appliances,"Feature 308, Feature 309, Feature 310",$1640,4.3
+Product 309,Books,"Feature 309, Feature 310, Feature 311",$1645,4.4
+Product 310,Toys,"Feature 310, Feature 311, Feature 312",$1650,4.0
+Product 311,Electronics,"Feature 311, Feature 312, Feature 313",$1655,4.1
+Product 312,Clothing,"Feature 312, Feature 313, Feature 314",$1660,4.2
+Product 313,Home Appliances,"Feature 313, Feature 314, Feature 315",$1665,4.3
+Product 314,Books,"Feature 314, Feature 315, Feature 316",$1670,4.4
+Product 315,Toys,"Feature 315, Feature 316, Feature 317",$1675,4.0
+Product 316,Electronics,"Feature 316, Feature 317, Feature 318",$1680,4.1
+Product 317,Clothing,"Feature 317, Feature 318, Feature 319",$1685,4.2
+Product 318,Home Appliances,"Feature 318, Feature 319, Feature 320",$1690,4.3
+Product 319,Books,"Feature 319, Feature 320, Feature 321",$1695,4.4
+Product 320,Toys,"Feature 320, Feature 321, Feature 322",$1700,4.0
+Product 321,Electronics,"Feature 321, Feature 322, Feature 323",$1705,4.1
+Product 322,Clothing,"Feature 322, Feature 323, Feature 324",$1710,4.2
+Product 323,Home Appliances,"Feature 323, Feature 324, Feature 325",$1715,4.3
+Product 324,Books,"Feature 324, Feature 325, Feature 326",$1720,4.4
+Product 325,Toys,"Feature 325, Feature 326, Feature 327",$1725,4.0
+Product 326,Electronics,"Feature 326, Feature 327, Feature 328",$1730,4.1
+Product 327,Clothing,"Feature 327, Feature 328, Feature 329",$1735,4.2
+Product 328,Home Appliances,"Feature 328, Feature 329, Feature 330",$1740,4.3
+Product 329,Books,"Feature 329, Feature 330, Feature 331",$1745,4.4
+Product 330,Toys,"Feature 330, Feature 331, Feature 332",$1750,4.0
+Product 331,Electronics,"Feature 331, Feature 332, Feature 333",$1755,4.1
+Product 332,Clothing,"Feature 332, Feature 333, Feature 334",$1760,4.2
+Product 333,Home Appliances,"Feature 333, Feature 334, Feature 335",$1765,4.3
+Product 334,Books,"Feature 334, Feature 335, Feature 336",$1770,4.4
+Product 335,Toys,"Feature 335, Feature 336, Feature 337",$1775,4.0
+Product 336,Electronics,"Feature 336, Feature 337, Feature 338",$1780,4.1
+Product 337,Clothing,"Feature 337, Feature 338, Feature 339",$1785,4.2
+Product 338,Home Appliances,"Feature 338, Feature 339, Feature 340",$1790,4.3
+Product 339,Books,"Feature 339, Feature 340, Feature 341",$1795,4.4
+Product 340,Toys,"Feature 340, Feature 341, Feature 342",$1800,4.0
+Product 341,Electronics,"Feature 341, Feature 342, Feature 343",$1805,4.1
+Product 342,Clothing,"Feature 342, Feature 343, Feature 344",$1810,4.2
+Product 343,Home Appliances,"Feature 343, Feature 344, Feature 345",$1815,4.3
+Product 344,Books,"Feature 344, Feature 345, Feature 346",$1820,4.4
+Product 345,Toys,"Feature 345, Feature 346, Feature 347",$1825,4.0
+Product 346,Electronics,"Feature 346, Feature 347, Feature 348",$1830,4.1
+Product 347,Clothing,"Feature 347, Feature 348, Feature 349",$1835,4.2
+Product 348,Home Appliances,"Feature 348, Feature 349, Feature 350",$1840,4.3
+Product 349,Books,"Feature 349, Feature 350, Feature 351",$1845,4.4
+Product 350,Toys,"Feature 350, Feature 351, Feature 352",$1850,4.0
+Product 351,Electronics,"Feature 351, Feature 352, Feature 353",$1855,4.1
+Product 352,Clothing,"Feature 352, Feature 353, Feature 354",$1860,4.2
+Product 353,Home Appliances,"Feature 353, Feature 354, Feature 355",$1865,4.3
+Product 354,Books,"Feature 354, Feature 355, Feature 356",$1870,4.4
+Product 355,Toys,"Feature 355, Feature 356, Feature 357",$1875,4.0
+Product 356,Electronics,"Feature 356, Feature 357, Feature 358",$1880,4.1
+Product 357,Clothing,"Feature 357, Feature 358, Feature 359",$1885,4.2
+Product 358,Home Appliances,"Feature 358, Feature 359, Feature 360",$1890,4.3
+Product 359,Books,"Feature 359, Feature 360, Feature 361",$1895,4.4
+Product 360,Toys,"Feature 360, Feature 361, Feature 362",$1900,4.0
+Product 361,Electronics,"Feature 361, Feature 362, Feature 363",$1905,4.1
+Product 362,Clothing,"Feature 362, Feature 363, Feature 364",$1910,4.2
+Product 363,Home Appliances,"Feature 363, Feature 364, Feature 365",$1915,4.3
+Product 364,Books,"Feature 364, Feature 365, Feature 366",$1920,4.4
+Product 365,Toys,"Feature 365, Feature 366, Feature 367",$1925,4.0
+Product 366,Electronics,"Feature 366, Feature 367, Feature 368",$1930,4.1
+Product 367,Clothing,"Feature 367, Feature 368, Feature 369",$1935,4.2
+Product 368,Home Appliances,"Feature 368, Feature 369, Feature 370",$1940,4.3
+Product 369,Books,"Feature 369, Feature 370, Feature 371",$1945,4.4
+Product 370,Toys,"Feature 370, Feature 371, Feature 372",$1950,4.0
+Product 371,Electronics,"Feature 371, Feature 372, Feature 373",$1955,4.1
+Product 372,Clothing,"Feature 372, Feature 373, Feature 374",$1960,4.2
+Product 373,Home Appliances,"Feature 373, Feature 374, Feature 375",$1965,4.3
+Product 374,Books,"Feature 374, Feature 375, Feature 376",$1970,4.4
+Product 375,Toys,"Feature 375, Feature 376, Feature 377",$1975,4.0
+Product 376,Electronics,"Feature 376, Feature 377, Feature 378",$1980,4.1
+Product 377,Clothing,"Feature 377, Feature 378, Feature 379",$1985,4.2
+Product 378,Home Appliances,"Feature 378, Feature 379, Feature 380",$1990,4.3
+Product 379,Books,"Feature 379, Feature 380, Feature 381",$1995,4.4
+Product 380,Toys,"Feature 380, Feature 381, Feature 382",$2000,4.0
+Product 381,Electronics,"Feature 381, Feature 382, Feature 383",$2005,4.1
+Product 382,Clothing,"Feature 382, Feature 383, Feature 384",$2010,4.2
+Product 383,Home Appliances,"Feature 383, Feature 384, Feature 385",$2015,4.3
+Product 384,Books,"Feature 384, Feature 385, Feature 386",$2020,4.4
+Product 385,Toys,"Feature 385, Feature 386, Feature 387",$2025,4.0
+Product 386,Electronics,"Feature 386, Feature 387, Feature 388",$2030,4.1
+Product 387,Clothing,"Feature 387, Feature 388, Feature 389",$2035,4.2
+Product 388,Home Appliances,"Feature 388, Feature 389, Feature 390",$2040,4.3
+Product 389,Books,"Feature 389, Feature 390, Feature 391",$2045,4.4
+Product 390,Toys,"Feature 390, Feature 391, Feature 392",$2050,4.0
+Product 391,Electronics,"Feature 391, Feature 392, Feature 393",$2055,4.1
+Product 392,Clothing,"Feature 392, Feature 393, Feature 394",$2060,4.2
+Product 393,Home Appliances,"Feature 393, Feature 394, Feature 395",$2065,4.3
+Product 394,Books,"Feature 394, Feature 395, Feature 396",$2070,4.4
+Product 395,Toys,"Feature 395, Feature 396, Feature 397",$2075,4.0
+Product 396,Electronics,"Feature 396, Feature 397, Feature 398",$2080,4.1
+Product 397,Clothing,"Feature 397, Feature 398, Feature 399",$2085,4.2
+Product 398,Home Appliances,"Feature 398, Feature 399, Feature 400",$2090,4.3
+Product 399,Books,"Feature 399, Feature 400, Feature 401",$2095,4.4
+Product 400,Toys,"Feature 400, Feature 401, Feature 402",$2100,4.0
+Product 401,Electronics,"Feature 401, Feature 402, Feature 403",$2105,4.1
+Product 402,Clothing,"Feature 402, Feature 403, Feature 404",$2110,4.2
+Product 403,Home Appliances,"Feature 403, Feature 404, Feature 405",$2115,4.3
+Product 404,Books,"Feature 404, Feature 405, Feature 406",$2120,4.4
+Product 405,Toys,"Feature 405, Feature 406, Feature 407",$2125,4.0
+Product 406,Electronics,"Feature 406, Feature 407, Feature 408",$2130,4.1
+Product 407,Clothing,"Feature 407, Feature 408, Feature 409",$2135,4.2
+Product 408,Home Appliances,"Feature 408, Feature 409, Feature 410",$2140,4.3
+Product 409,Books,"Feature 409, Feature 410, Feature 411",$2145,4.4
+Product 410,Toys,"Feature 410, Feature 411, Feature 412",$2150,4.0
+Product 411,Electronics,"Feature 411, Feature 412, Feature 413",$2155,4.1
+Product 412,Clothing,"Feature 412, Feature 413, Feature 414",$2160,4.2
+Product 413,Home Appliances,"Feature 413, Feature 414, Feature 415",$2165,4.3
+Product 414,Books,"Feature 414, Feature 415, Feature 416",$2170,4.4
+Product 415,Toys,"Feature 415, Feature 416, Feature 417",$2175,4.0
+Product 416,Electronics,"Feature 416, Feature 417, Feature 418",$2180,4.1
+Product 417,Clothing,"Feature 417, Feature 418, Feature 419",$2185,4.2
+Product 418,Home Appliances,"Feature 418, Feature 419, Feature 420",$2190,4.3
+Product 419,Books,"Feature 419, Feature 420, Feature 421",$2195,4.4
+Product 420,Toys,"Feature 420, Feature 421, Feature 422",$2200,4.0
+Product 421,Electronics,"Feature 421, Feature 422, Feature 423",$2205,4.1
+Product 422,Clothing,"Feature 422, Feature 423, Feature 424",$2210,4.2
+Product 423,Home Appliances,"Feature 423, Feature 424, Feature 425",$2215,4.3
+Product 424,Books,"Feature 424, Feature 425, Feature 426",$2220,4.4
+Product 425,Toys,"Feature 425, Feature 426, Feature 427",$2225,4.0
+Product 426,Electronics,"Feature 426, Feature 427, Feature 428",$2230,4.1
+Product 427,Clothing,"Feature 427, Feature 428, Feature 429",$2235,4.2
+Product 428,Home Appliances,"Feature 428, Feature 429, Feature 430",$2240,4.3
+Product 429,Books,"Feature 429, Feature 430, Feature 431",$2245,4.4
+Product 430,Toys,"Feature 430, Feature 431, Feature 432",$2250,4.0
+Product 431,Electronics,"Feature 431, Feature 432, Feature 433",$2255,4.1
+Product 432,Clothing,"Feature 432, Feature 433, Feature 434",$2260,4.2
+Product 433,Home Appliances,"Feature 433, Feature 434, Feature 435",$2265,4.3
+Product 434,Books,"Feature 434, Feature 435, Feature 436",$2270,4.4
+Product 435,Toys,"Feature 435, Feature 436, Feature 437",$2275,4.0
+Product 436,Electronics,"Feature 436, Feature 437, Feature 438",$2280,4.1
+Product 437,Clothing,"Feature 437, Feature 438, Feature 439",$2285,4.2
+Product 438,Home Appliances,"Feature 438, Feature 439, Feature 440",$2290,4.3
+Product 439,Books,"Feature 439, Feature 440, Feature 441",$2295,4.4
+Product 440,Toys,"Feature 440, Feature 441, Feature 442",$2300,4.0
+Product 441,Electronics,"Feature 441, Feature 442, Feature 443",$2305,4.1
+Product 442,Clothing,"Feature 442, Feature 443, Feature 444",$2310,4.2
+Product 443,Home Appliances,"Feature 443, Feature 444, Feature 445",$2315,4.3
+Product 444,Books,"Feature 444, Feature 445, Feature 446",$2320,4.4
+Product 445,Toys,"Feature 445, Feature 446, Feature 447",$2325,4.0
+Product 446,Electronics,"Feature 446, Feature 447, Feature 448",$2330,4.1
+Product 447,Clothing,"Feature 447, Feature 448, Feature 449",$2335,4.2
+Product 448,Home Appliances,"Feature 448, Feature 449, Feature 450",$2340,4.3
+Product 449,Books,"Feature 449, Feature 450, Feature 451",$2345,4.4
+Product 450,Toys,"Feature 450, Feature 451, Feature 452",$2350,4.0
+Product 451,Electronics,"Feature 451, Feature 452, Feature 453",$2355,4.1
+Product 452,Clothing,"Feature 452, Feature 453, Feature 454",$2360,4.2
+Product 453,Home Appliances,"Feature 453, Feature 454, Feature 455",$2365,4.3
+Product 454,Books,"Feature 454, Feature 455, Feature 456",$2370,4.4
+Product 455,Toys,"Feature 455, Feature 456, Feature 457",$2375,4.0
+Product 456,Electronics,"Feature 456, Feature 457, Feature 458",$2380,4.1
+Product 457,Clothing,"Feature 457, Feature 458, Feature 459",$2385,4.2
+Product 458,Home Appliances,"Feature 458, Feature 459, Feature 460",$2390,4.3
+Product 459,Books,"Feature 459, Feature 460, Feature 461",$2395,4.4
+Product 460,Toys,"Feature 460, Feature 461, Feature 462",$2400,4.0
+Product 461,Electronics,"Feature 461, Feature 462, Feature 463",$2405,4.1
+Product 462,Clothing,"Feature 462, Feature 463, Feature 464",$2410,4.2
+Product 463,Home Appliances,"Feature 463, Feature 464, Feature 465",$2415,4.3
+Product 464,Books,"Feature 464, Feature 465, Feature 466",$2420,4.4
+Product 465,Toys,"Feature 465, Feature 466, Feature 467",$2425,4.0
+Product 466,Electronics,"Feature 466, Feature 467, Feature 468",$2430,4.1
+Product 467,Clothing,"Feature 467, Feature 468, Feature 469",$2435,4.2
+Product 468,Home Appliances,"Feature 468, Feature 469, Feature 470",$2440,4.3
+Product 469,Books,"Feature 469, Feature 470, Feature 471",$2445,4.4
+Product 470,Toys,"Feature 470, Feature 471, Feature 472",$2450,4.0
+Product 471,Electronics,"Feature 471, Feature 472, Feature 473",$2455,4.1
+Product 472,Clothing,"Feature 472, Feature 473, Feature 474",$2460,4.2
+Product 473,Home Appliances,"Feature 473, Feature 474, Feature 475",$2465,4.3
+Product 474,Books,"Feature 474, Feature 475, Feature 476",$2470,4.4
+Product 475,Toys,"Feature 475, Feature 476, Feature 477",$2475,4.0
+Product 476,Electronics,"Feature 476, Feature 477, Feature 478",$2480,4.1
+Product 477,Clothing,"Feature 477, Feature 478, Feature 479",$2485,4.2
+Product 478,Home Appliances,"Feature 478, Feature 479, Feature 480",$2490,4.3
+Product 479,Books,"Feature 479, Feature 480, Feature 481",$2495,4.4
+Product 480,Toys,"Feature 480, Feature 481, Feature 482",$2500,4.0
+Product 481,Electronics,"Feature 481, Feature 482, Feature 483",$2505,4.1
+Product 482,Clothing,"Feature 482, Feature 483, Feature 484",$2510,4.2
+Product 483,Home Appliances,"Feature 483, Feature 484, Feature 485",$2515,4.3
+Product 484,Books,"Feature 484, Feature 485, Feature 486",$2520,4.4
+Product 485,Toys,"Feature 485, Feature 486, Feature 487",$2525,4.0
+Product 486,Electronics,"Feature 486, Feature 487, Feature 488",$2530,4.1
+Product 487,Clothing,"Feature 487, Feature 488, Feature 489",$2535,4.2
+Product 488,Home Appliances,"Feature 488, Feature 489, Feature 490",$2540,4.3
+Product 489,Books,"Feature 489, Feature 490, Feature 491",$2545,4.4
+Product 490,Toys,"Feature 490, Feature 491, Feature 492",$2550,4.0
+Product 491,Electronics,"Feature 491, Feature 492, Feature 493",$2555,4.1
+Product 492,Clothing,"Feature 492, Feature 493, Feature 494",$2560,4.2
+Product 493,Home Appliances,"Feature 493, Feature 494, Feature 495",$2565,4.3
+Product 494,Books,"Feature 494, Feature 495, Feature 496",$2570,4.4
+Product 495,Toys,"Feature 495, Feature 496, Feature 497",$2575,4.0
+Product 496,Electronics,"Feature 496, Feature 497, Feature 498",$2580,4.1
+Product 497,Clothing,"Feature 497, Feature 498, Feature 499",$2585,4.2
+Product 498,Home Appliances,"Feature 498, Feature 499, Feature 500",$2590,4.3
+Product 499,Books,"Feature 499, Feature 500, Feature 501",$2595,4.4
+Product 500,Toys,"Feature 500, Feature 501, Feature 502",$2600,4.0
+Product 501,Electronics,"Feature 501, Feature 502, Feature 503",$2605,4.1
+Product 502,Clothing,"Feature 502, Feature 503, Feature 504",$2610,4.2
+Product 503,Home Appliances,"Feature 503, Feature 504, Feature 505",$2615,4.3
+Product 504,Books,"Feature 504, Feature 505, Feature 506",$2620,4.4
+Product 505,Toys,"Feature 505, Feature 506, Feature 507",$2625,4.0
+Product 506,Electronics,"Feature 506, Feature 507, Feature 508",$2630,4.1
+Product 507,Clothing,"Feature 507, Feature 508, Feature 509",$2635,4.2
+Product 508,Home Appliances,"Feature 508, Feature 509, Feature 510",$2640,4.3
+Product 509,Books,"Feature 509, Feature 510, Feature 511",$2645,4.4
+Product 510,Toys,"Feature 510, Feature 511, Feature 512",$2650,4.0
+Product 511,Electronics,"Feature 511, Feature 512, Feature 513",$2655,4.1
+Product 512,Clothing,"Feature 512, Feature 513, Feature 514",$2660,4.2
+Product 513,Home Appliances,"Feature 513, Feature 514, Feature 515",$2665,4.3
+Product 514,Books,"Feature 514, Feature 515, Feature 516",$2670,4.4
+Product 515,Toys,"Feature 515, Feature 516, Feature 517",$2675,4.0
+Product 516,Electronics,"Feature 516, Feature 517, Feature 518",$2680,4.1
+Product 517,Clothing,"Feature 517, Feature 518, Feature 519",$2685,4.2
+Product 518,Home Appliances,"Feature 518, Feature 519, Feature 520",$2690,4.3
+Product 519,Books,"Feature 519, Feature 520, Feature 521",$2695,4.4
+Product 520,Toys,"Feature 520, Feature 521, Feature 522",$2700,4.0
+Product 521,Electronics,"Feature 521, Feature 522, Feature 523",$2705,4.1
+Product 522,Clothing,"Feature 522, Feature 523, Feature 524",$2710,4.2
+Product 523,Home Appliances,"Feature 523, Feature 524, Feature 525",$2715,4.3
+Product 524,Books,"Feature 524, Feature 525, Feature 526",$2720,4.4
+Product 525,Toys,"Feature 525, Feature 526, Feature 527",$2725,4.0
+Product 526,Electronics,"Feature 526, Feature 527, Feature 528",$2730,4.1
+Product 527,Clothing,"Feature 527, Feature 528, Feature 529",$2735,4.2
+Product 528,Home Appliances,"Feature 528, Feature 529, Feature 530",$2740,4.3
+Product 529,Books,"Feature 529, Feature 530, Feature 531",$2745,4.4
+Product 530,Toys,"Feature 530, Feature 531, Feature 532",$2750,4.0
+Product 531,Electronics,"Feature 531, Feature 532, Feature 533",$2755,4.1
+Product 532,Clothing,"Feature 532, Feature 533, Feature 534",$2760,4.2
+Product 533,Home Appliances,"Feature 533, Feature 534, Feature 535",$2765,4.3
+Product 534,Books,"Feature 534, Feature 535, Feature 536",$2770,4.4
+Product 535,Toys,"Feature 535, Feature 536, Feature 537",$2775,4.0
+Product 536,Electronics,"Feature 536, Feature 537, Feature 538",$2780,4.1
+Product 537,Clothing,"Feature 537, Feature 538, Feature 539",$2785,4.2
+Product 538,Home Appliances,"Feature 538, Feature 539, Feature 540",$2790,4.3
+Product 539,Books,"Feature 539, Feature 540, Feature 541",$2795,4.4
+Product 540,Toys,"Feature 540, Feature 541, Feature 542",$2800,4.0
+Product 541,Electronics,"Feature 541, Feature 542, Feature 543",$2805,4.1
+Product 542,Clothing,"Feature 542, Feature 543, Feature 544",$2810,4.2
+Product 543,Home Appliances,"Feature 543, Feature 544, Feature 545",$2815,4.3
+Product 544,Books,"Feature 544, Feature 545, Feature 546",$2820,4.4
+Product 545,Toys,"Feature 545, Feature 546, Feature 547",$2825,4.0
+Product 546,Electronics,"Feature 546, Feature 547, Feature 548",$2830,4.1
+Product 547,Clothing,"Feature 547, Feature 548, Feature 549",$2835,4.2
+Product 548,Home Appliances,"Feature 548, Feature 549, Feature 550",$2840,4.3
+Product 549,Books,"Feature 549, Feature 550, Feature 551",$2845,4.4
+Product 550,Toys,"Feature 550, Feature 551, Feature 552",$2850,4.0
+Product 551,Electronics,"Feature 551, Feature 552, Feature 553",$2855,4.1
+Product 552,Clothing,"Feature 552, Feature 553, Feature 554",$2860,4.2
+Product 553,Home Appliances,"Feature 553, Feature 554, Feature 555",$2865,4.3
+Product 554,Books,"Feature 554, Feature 555, Feature 556",$2870,4.4
+Product 555,Toys,"Feature 555, Feature 556, Feature 557",$2875,4.0
+Product 556,Electronics,"Feature 556, Feature 557, Feature 558",$2880,4.1
+Product 557,Clothing,"Feature 557, Feature 558, Feature 559",$2885,4.2
+Product 558,Home Appliances,"Feature 558, Feature 559, Feature 560",$2890,4.3
+Product 559,Books,"Feature 559, Feature 560, Feature 561",$2895,4.4
+Product 560,Toys,"Feature 560, Feature 561, Feature 562",$2900,4.0
+Product 561,Electronics,"Feature 561, Feature 562, Feature 563",$2905,4.1
+Product 562,Clothing,"Feature 562, Feature 563, Feature 564",$2910,4.2
+Product 563,Home Appliances,"Feature 563, Feature 564, Feature 565",$2915,4.3
+Product 564,Books,"Feature 564, Feature 565, Feature 566",$2920,4.4
+Product 565,Toys,"Feature 565, Feature 566, Feature 567",$2925,4.0
+Product 566,Electronics,"Feature 566, Feature 567, Feature 568",$2930,4.1
+Product 567,Clothing,"Feature 567, Feature 568, Feature 569",$2935,4.2
+Product 568,Home Appliances,"Feature 568, Feature 569, Feature 570",$2940,4.3
+Product 569,Books,"Feature 569, Feature 570, Feature 571",$2945,4.4
+Product 570,Toys,"Feature 570, Feature 571, Feature 572",$2950,4.0
+Product 571,Electronics,"Feature 571, Feature 572, Feature 573",$2955,4.1
+Product 572,Clothing,"Feature 572, Feature 573, Feature 574",$2960,4.2
+Product 573,Home Appliances,"Feature 573, Feature 574, Feature 575",$2965,4.3
+Product 574,Books,"Feature 574, Feature 575, Feature 576",$2970,4.4
+Product 575,Toys,"Feature 575, Feature 576, Feature 577",$2975,4.0
+Product 576,Electronics,"Feature 576, Feature 577, Feature 578",$2980,4.1
+Product 577,Clothing,"Feature 577, Feature 578, Feature 579",$2985,4.2
+Product 578,Home Appliances,"Feature 578, Feature 579, Feature 580",$2990,4.3
+Product 579,Books,"Feature 579, Feature 580, Feature 581",$2995,4.4
+Product 580,Toys,"Feature 580, Feature 581, Feature 582",$3000,4.0
+Product 581,Electronics,"Feature 581, Feature 582, Feature 583",$3005,4.1
+Product 582,Clothing,"Feature 582, Feature 583, Feature 584",$3010,4.2
+Product 583,Home Appliances,"Feature 583, Feature 584, Feature 585",$3015,4.3
+Product 584,Books,"Feature 584, Feature 585, Feature 586",$3020,4.4
+Product 585,Toys,"Feature 585, Feature 586, Feature 587",$3025,4.0
+Product 586,Electronics,"Feature 586, Feature 587, Feature 588",$3030,4.1
+Product 587,Clothing,"Feature 587, Feature 588, Feature 589",$3035,4.2
+Product 588,Home Appliances,"Feature 588, Feature 589, Feature 590",$3040,4.3
+Product 589,Books,"Feature 589, Feature 590, Feature 591",$3045,4.4
+Product 590,Toys,"Feature 590, Feature 591, Feature 592",$3050,4.0
+Product 591,Electronics,"Feature 591, Feature 592, Feature 593",$3055,4.1
+Product 592,Clothing,"Feature 592, Feature 593, Feature 594",$3060,4.2
+Product 593,Home Appliances,"Feature 593, Feature 594, Feature 595",$3065,4.3
+Product 594,Books,"Feature 594, Feature 595, Feature 596",$3070,4.4
+Product 595,Toys,"Feature 595, Feature 596, Feature 597",$3075,4.0
+Product 596,Electronics,"Feature 596, Feature 597, Feature 598",$3080,4.1
+Product 597,Clothing,"Feature 597, Feature 598, Feature 599",$3085,4.2
+Product 598,Home Appliances,"Feature 598, Feature 599, Feature 600",$3090,4.3
+Product 599,Books,"Feature 599, Feature 600, Feature 601",$3095,4.4
+Product 600,Toys,"Feature 600, Feature 601, Feature 602",$3100,4.0
+Product 601,Electronics,"Feature 601, Feature 602, Feature 603",$3105,4.1
+Product 602,Clothing,"Feature 602, Feature 603, Feature 604",$3110,4.2
+Product 603,Home Appliances,"Feature 603, Feature 604, Feature 605",$3115,4.3
+Product 604,Books,"Feature 604, Feature 605, Feature 606",$3120,4.4
+Product 605,Toys,"Feature 605, Feature 606, Feature 607",$3125,4.0
+Product 606,Electronics,"Feature 606, Feature 607, Feature 608",$3130,4.1
+Product 607,Clothing,"Feature 607, Feature 608, Feature 609",$3135,4.2
+Product 608,Home Appliances,"Feature 608, Feature 609, Feature 610",$3140,4.3
+Product 609,Books,"Feature 609, Feature 610, Feature 611",$3145,4.4
+Product 610,Toys,"Feature 610, Feature 611, Feature 612",$3150,4.0
+Product 611,Electronics,"Feature 611, Feature 612, Feature 613",$3155,4.1
+Product 612,Clothing,"Feature 612, Feature 613, Feature 614",$3160,4.2
+Product 613,Home Appliances,"Feature 613, Feature 614, Feature 615",$3165,4.3
+Product 614,Books,"Feature 614, Feature 615, Feature 616",$3170,4.4
+Product 615,Toys,"Feature 615, Feature 616, Feature 617",$3175,4.0
+Product 616,Electronics,"Feature 616, Feature 617, Feature 618",$3180,4.1
+Product 617,Clothing,"Feature 617, Feature 618, Feature 619",$3185,4.2
+Product 618,Home Appliances,"Feature 618, Feature 619, Feature 620",$3190,4.3
+Product 619,Books,"Feature 619, Feature 620, Feature 621",$3195,4.4
+Product 620,Toys,"Feature 620, Feature 621, Feature 622",$3200,4.0
+Product 621,Electronics,"Feature 621, Feature 622, Feature 623",$3205,4.1
+Product 622,Clothing,"Feature 622, Feature 623, Feature 624",$3210,4.2
+Product 623,Home Appliances,"Feature 623, Feature 624, Feature 625",$3215,4.3
+Product 624,Books,"Feature 624, Feature 625, Feature 626",$3220,4.4
+Product 625,Toys,"Feature 625, Feature 626, Feature 627",$3225,4.0
+Product 626,Electronics,"Feature 626, Feature 627, Feature 628",$3230,4.1
+Product 627,Clothing,"Feature 627, Feature 628, Feature 629",$3235,4.2
+Product 628,Home Appliances,"Feature 628, Feature 629, Feature 630",$3240,4.3
+Product 629,Books,"Feature 629, Feature 630, Feature 631",$3245,4.4
+Product 630,Toys,"Feature 630, Feature 631, Feature 632",$3250,4.0
+Product 631,Electronics,"Feature 631, Feature 632, Feature 633",$3255,4.1
+Product 632,Clothing,"Feature 632, Feature 633, Feature 634",$3260,4.2
+Product 633,Home Appliances,"Feature 633, Feature 634, Feature 635",$3265,4.3
+Product 634,Books,"Feature 634, Feature 635, Feature 636",$3270,4.4
+Product 635,Toys,"Feature 635, Feature 636, Feature 637",$3275,4.0
+Product 636,Electronics,"Feature 636, Feature 637, Feature 638",$3280,4.1
+Product 637,Clothing,"Feature 637, Feature 638, Feature 639",$3285,4.2
+Product 638,Home Appliances,"Feature 638, Feature 639, Feature 640",$3290,4.3
+Product 639,Books,"Feature 639, Feature 640, Feature 641",$3295,4.4
+Product 640,Toys,"Feature 640, Feature 641, Feature 642",$3300,4.0
+Product 641,Electronics,"Feature 641, Feature 642, Feature 643",$3305,4.1
+Product 642,Clothing,"Feature 642, Feature 643, Feature 644",$3310,4.2
+Product 643,Home Appliances,"Feature 643, Feature 644, Feature 645",$3315,4.3
+Product 644,Books,"Feature 644, Feature 645, Feature 646",$3320,4.4
+Product 645,Toys,"Feature 645, Feature 646, Feature 647",$3325,4.0
+Product 646,Electronics,"Feature 646, Feature 647, Feature 648",$3330,4.1
+Product 647,Clothing,"Feature 647, Feature 648, Feature 649",$3335,4.2
+Product 648,Home Appliances,"Feature 648, Feature 649, Feature 650",$3340,4.3
+Product 649,Books,"Feature 649, Feature 650, Feature 651",$3345,4.4
+Product 650,Toys,"Feature 650, Feature 651, Feature 652",$3350,4.0
+Product 651,Electronics,"Feature 651, Feature 652, Feature 653",$3355,4.1
+Product 652,Clothing,"Feature 652, Feature 653, Feature 654",$3360,4.2
+Product 653,Home Appliances,"Feature 653, Feature 654, Feature 655",$3365,4.3
+Product 654,Books,"Feature 654, Feature 655, Feature 656",$3370,4.4
+Product 655,Toys,"Feature 655, Feature 656, Feature 657",$3375,4.0
+Product 656,Electronics,"Feature 656, Feature 657, Feature 658",$3380,4.1
+Product 657,Clothing,"Feature 657, Feature 658, Feature 659",$3385,4.2
+Product 658,Home Appliances,"Feature 658, Feature 659, Feature 660",$3390,4.3
+Product 659,Books,"Feature 659, Feature 660, Feature 661",$3395,4.4
+Product 660,Toys,"Feature 660, Feature 661, Feature 662",$3400,4.0
+Product 661,Electronics,"Feature 661, Feature 662, Feature 663",$3405,4.1
+Product 662,Clothing,"Feature 662, Feature 663, Feature 664",$3410,4.2
+Product 663,Home Appliances,"Feature 663, Feature 664, Feature 665",$3415,4.3
+Product 664,Books,"Feature 664, Feature 665, Feature 666",$3420,4.4
+Product 665,Toys,"Feature 665, Feature 666, Feature 667",$3425,4.0
+Product 666,Electronics,"Feature 666, Feature 667, Feature 668",$3430,4.1
+Product 667,Clothing,"Feature 667, Feature 668, Feature 669",$3435,4.2
+Product 668,Home Appliances,"Feature 668, Feature 669, Feature 670",$3440,4.3
+Product 669,Books,"Feature 669, Feature 670, Feature 671",$3445,4.4
+Product 670,Toys,"Feature 670, Feature 671, Feature 672",$3450,4.0
+Product 671,Electronics,"Feature 671, Feature 672, Feature 673",$3455,4.1
+Product 672,Clothing,"Feature 672, Feature 673, Feature 674",$3460,4.2
+Product 673,Home Appliances,"Feature 673, Feature 674, Feature 675",$3465,4.3
+Product 674,Books,"Feature 674, Feature 675, Feature 676",$3470,4.4
+Product 675,Toys,"Feature 675, Feature 676, Feature 677",$3475,4.0
+Product 676,Electronics,"Feature 676, Feature 677, Feature 678",$3480,4.1
+Product 677,Clothing,"Feature 677, Feature 678, Feature 679",$3485,4.2
+Product 678,Home Appliances,"Feature 678, Feature 679, Feature 680",$3490,4.3
+Product 679,Books,"Feature 679, Feature 680, Feature 681",$3495,4.4
+Product 680,Toys,"Feature 680, Feature 681, Feature 682",$3500,4.0
+Product 681,Electronics,"Feature 681, Feature 682, Feature 683",$3505,4.1
+Product 682,Clothing,"Feature 682, Feature 683, Feature 684",$3510,4.2
+Product 683,Home Appliances,"Feature 683, Feature 684, Feature 685",$3515,4.3
+Product 684,Books,"Feature 684, Feature 685, Feature 686",$3520,4.4
+Product 685,Toys,"Feature 685, Feature 686, Feature 687",$3525,4.0
+Product 686,Electronics,"Feature 686, Feature 687, Feature 688",$3530,4.1
+Product 687,Clothing,"Feature 687, Feature 688, Feature 689",$3535,4.2
+Product 688,Home Appliances,"Feature 688, Feature 689, Feature 690",$3540,4.3
+Product 689,Books,"Feature 689, Feature 690, Feature 691",$3545,4.4
+Product 690,Toys,"Feature 690, Feature 691, Feature 692",$3550,4.0
+Product 691,Electronics,"Feature 691, Feature 692, Feature 693",$3555,4.1
+Product 692,Clothing,"Feature 692, Feature 693, Feature 694",$3560,4.2
+Product 693,Home Appliances,"Feature 693, Feature 694, Feature 695",$3565,4.3
+Product 694,Books,"Feature 694, Feature 695, Feature 696",$3570,4.4
+Product 695,Toys,"Feature 695, Feature 696, Feature 697",$3575,4.0
+Product 696,Electronics,"Feature 696, Feature 697, Feature 698",$3580,4.1
+Product 697,Clothing,"Feature 697, Feature 698, Feature 699",$3585,4.2
+Product 698,Home Appliances,"Feature 698, Feature 699, Feature 700",$3590,4.3
+Product 699,Books,"Feature 699, Feature 700, Feature 701",$3595,4.4
+Product 700,Toys,"Feature 700, Feature 701, Feature 702",$3600,4.0
+Product 701,Electronics,"Feature 701, Feature 702, Feature 703",$3605,4.1
+Product 702,Clothing,"Feature 702, Feature 703, Feature 704",$3610,4.2
+Product 703,Home Appliances,"Feature 703, Feature 704, Feature 705",$3615,4.3
+Product 704,Books,"Feature 704, Feature 705, Feature 706",$3620,4.4
+Product 705,Toys,"Feature 705, Feature 706, Feature 707",$3625,4.0
+Product 706,Electronics,"Feature 706, Feature 707, Feature 708",$3630,4.1
+Product 707,Clothing,"Feature 707, Feature 708, Feature 709",$3635,4.2
+Product 708,Home Appliances,"Feature 708, Feature 709, Feature 710",$3640,4.3
+Product 709,Books,"Feature 709, Feature 710, Feature 711",$3645,4.4
+Product 710,Toys,"Feature 710, Feature 711, Feature 712",$3650,4.0
+Product 711,Electronics,"Feature 711, Feature 712, Feature 713",$3655,4.1
+Product 712,Clothing,"Feature 712, Feature 713, Feature 714",$3660,4.2
+Product 713,Home Appliances,"Feature 713, Feature 714, Feature 715",$3665,4.3
+Product 714,Books,"Feature 714, Feature 715, Feature 716",$3670,4.4
+Product 715,Toys,"Feature 715, Feature 716, Feature 717",$3675,4.0
+Product 716,Electronics,"Feature 716, Feature 717, Feature 718",$3680,4.1
+Product 717,Clothing,"Feature 717, Feature 718, Feature 719",$3685,4.2
+Product 718,Home Appliances,"Feature 718, Feature 719, Feature 720",$3690,4.3
+Product 719,Books,"Feature 719, Feature 720, Feature 721",$3695,4.4
+Product 720,Toys,"Feature 720, Feature 721, Feature 722",$3700,4.0
+Product 721,Electronics,"Feature 721, Feature 722, Feature 723",$3705,4.1
+Product 722,Clothing,"Feature 722, Feature 723, Feature 724",$3710,4.2
+Product 723,Home Appliances,"Feature 723, Feature 724, Feature 725",$3715,4.3
+Product 724,Books,"Feature 724, Feature 725, Feature 726",$3720,4.4
+Product 725,Toys,"Feature 725, Feature 726, Feature 727",$3725,4.0
+Product 726,Electronics,"Feature 726, Feature 727, Feature 728",$3730,4.1
+Product 727,Clothing,"Feature 727, Feature 728, Feature 729",$3735,4.2
+Product 728,Home Appliances,"Feature 728, Feature 729, Feature 730",$3740,4.3
+Product 729,Books,"Feature 729, Feature 730, Feature 731",$3745,4.4
+Product 730,Toys,"Feature 730, Feature 731, Feature 732",$3750,4.0
+Product 731,Electronics,"Feature 731, Feature 732, Feature 733",$3755,4.1
+Product 732,Clothing,"Feature 732, Feature 733, Feature 734",$3760,4.2
+Product 733,Home Appliances,"Feature 733, Feature 734, Feature 735",$3765,4.3
+Product 734,Books,"Feature 734, Feature 735, Feature 736",$3770,4.4
+Product 735,Toys,"Feature 735, Feature 736, Feature 737",$3775,4.0
+Product 736,Electronics,"Feature 736, Feature 737, Feature 738",$3780,4.1
+Product 737,Clothing,"Feature 737, Feature 738, Feature 739",$3785,4.2
+Product 738,Home Appliances,"Feature 738, Feature 739, Feature 740",$3790,4.3
+Product 739,Books,"Feature 739, Feature 740, Feature 741",$3795,4.4
+Product 740,Toys,"Feature 740, Feature 741, Feature 742",$3800,4.0
+Product 741,Electronics,"Feature 741, Feature 742, Feature 743",$3805,4.1
+Product 742,Clothing,"Feature 742, Feature 743, Feature 744",$3810,4.2
+Product 743,Home Appliances,"Feature 743, Feature 744, Feature 745",$3815,4.3
+Product 744,Books,"Feature 744, Feature 745, Feature 746",$3820,4.4
+Product 745,Toys,"Feature 745, Feature 746, Feature 747",$3825,4.0
+Product 746,Electronics,"Feature 746, Feature 747, Feature 748",$3830,4.1
+Product 747,Clothing,"Feature 747, Feature 748, Feature 749",$3835,4.2
+Product 748,Home Appliances,"Feature 748, Feature 749, Feature 750",$3840,4.3
+Product 749,Books,"Feature 749, Feature 750, Feature 751",$3845,4.4
+Product 750,Toys,"Feature 750, Feature 751, Feature 752",$3850,4.0
+Product 751,Electronics,"Feature 751, Feature 752, Feature 753",$3855,4.1
+Product 752,Clothing,"Feature 752, Feature 753, Feature 754",$3860,4.2
+Product 753,Home Appliances,"Feature 753, Feature 754, Feature 755",$3865,4.3
+Product 754,Books,"Feature 754, Feature 755, Feature 756",$3870,4.4
+Product 755,Toys,"Feature 755, Feature 756, Feature 757",$3875,4.0
+Product 756,Electronics,"Feature 756, Feature 757, Feature 758",$3880,4.1
+Product 757,Clothing,"Feature 757, Feature 758, Feature 759",$3885,4.2
+Product 758,Home Appliances,"Feature 758, Feature 759, Feature 760",$3890,4.3
+Product 759,Books,"Feature 759, Feature 760, Feature 761",$3895,4.4
+Product 760,Toys,"Feature 760, Feature 761, Feature 762",$3900,4.0
+Product 761,Electronics,"Feature 761, Feature 762, Feature 763",$3905,4.1
+Product 762,Clothing,"Feature 762, Feature 763, Feature 764",$3910,4.2
+Product 763,Home Appliances,"Feature 763, Feature 764, Feature 765",$3915,4.3
+Product 764,Books,"Feature 764, Feature 765, Feature 766",$3920,4.4
+Product 765,Toys,"Feature 765, Feature 766, Feature 767",$3925,4.0
+Product 766,Electronics,"Feature 766, Feature 767, Feature 768",$3930,4.1
+Product 767,Clothing,"Feature 767, Feature 768, Feature 769",$3935,4.2
+Product 768,Home Appliances,"Feature 768, Feature 769, Feature 770",$3940,4.3
+Product 769,Books,"Feature 769, Feature 770, Feature 771",$3945,4.4
+Product 770,Toys,"Feature 770, Feature 771, Feature 772",$3950,4.0
+Product 771,Electronics,"Feature 771, Feature 772, Feature 773",$3955,4.1
+Product 772,Clothing,"Feature 772, Feature 773, Feature 774",$3960,4.2
+Product 773,Home Appliances,"Feature 773, Feature 774, Feature 775",$3965,4.3
+Product 774,Books,"Feature 774, Feature 775, Feature 776",$3970,4.4
+Product 775,Toys,"Feature 775, Feature 776, Feature 777",$3975,4.0
+Product 776,Electronics,"Feature 776, Feature 777, Feature 778",$3980,4.1
+Product 777,Clothing,"Feature 777, Feature 778, Feature 779",$3985,4.2
+Product 778,Home Appliances,"Feature 778, Feature 779, Feature 780",$3990,4.3
+Product 779,Books,"Feature 779, Feature 780, Feature 781",$3995,4.4
+Product 780,Toys,"Feature 780, Feature 781, Feature 782",$4000,4.0
+Product 781,Electronics,"Feature 781, Feature 782, Feature 783",$4005,4.1
+Product 782,Clothing,"Feature 782, Feature 783, Feature 784",$4010,4.2
+Product 783,Home Appliances,"Feature 783, Feature 784, Feature 785",$4015,4.3
+Product 784,Books,"Feature 784, Feature 785, Feature 786",$4020,4.4
+Product 785,Toys,"Feature 785, Feature 786, Feature 787",$4025,4.0
+Product 786,Electronics,"Feature 786, Feature 787, Feature 788",$4030,4.1
+Product 787,Clothing,"Feature 787, Feature 788, Feature 789",$4035,4.2
+Product 788,Home Appliances,"Feature 788, Feature 789, Feature 790",$4040,4.3
+Product 789,Books,"Feature 789, Feature 790, Feature 791",$4045,4.4
+Product 790,Toys,"Feature 790, Feature 791, Feature 792",$4050,4.0
+Product 791,Electronics,"Feature 791, Feature 792, Feature 793",$4055,4.1
+Product 792,Clothing,"Feature 792, Feature 793, Feature 794",$4060,4.2
+Product 793,Home Appliances,"Feature 793, Feature 794, Feature 795",$4065,4.3
+Product 794,Books,"Feature 794, Feature 795, Feature 796",$4070,4.4
+Product 795,Toys,"Feature 795, Feature 796, Feature 797",$4075,4.0
+Product 796,Electronics,"Feature 796, Feature 797, Feature 798",$4080,4.1
+Product 797,Clothing,"Feature 797, Feature 798, Feature 799",$4085,4.2
+Product 798,Home Appliances,"Feature 798, Feature 799, Feature 800",$4090,4.3
+Product 799,Books,"Feature 799, Feature 800, Feature 801",$4095,4.4
+Product 800,Toys,"Feature 800, Feature 801, Feature 802",$4100,4.0
+Product 801,Electronics,"Feature 801, Feature 802, Feature 803",$4105,4.1
+Product 802,Clothing,"Feature 802, Feature 803, Feature 804",$4110,4.2
+Product 803,Home Appliances,"Feature 803, Feature 804, Feature 805",$4115,4.3
+Product 804,Books,"Feature 804, Feature 805, Feature 806",$4120,4.4
+Product 805,Toys,"Feature 805, Feature 806, Feature 807",$4125,4.0
+Product 806,Electronics,"Feature 806, Feature 807, Feature 808",$4130,4.1
+Product 807,Clothing,"Feature 807, Feature 808, Feature 809",$4135,4.2
+Product 808,Home Appliances,"Feature 808, Feature 809, Feature 810",$4140,4.3
+Product 809,Books,"Feature 809, Feature 810, Feature 811",$4145,4.4
+Product 810,Toys,"Feature 810, Feature 811, Feature 812",$4150,4.0
+Product 811,Electronics,"Feature 811, Feature 812, Feature 813",$4155,4.1
+Product 812,Clothing,"Feature 812, Feature 813, Feature 814",$4160,4.2
+Product 813,Home Appliances,"Feature 813, Feature 814, Feature 815",$4165,4.3
+Product 814,Books,"Feature 814, Feature 815, Feature 816",$4170,4.4
+Product 815,Toys,"Feature 815, Feature 816, Feature 817",$4175,4.0
+Product 816,Electronics,"Feature 816, Feature 817, Feature 818",$4180,4.1
+Product 817,Clothing,"Feature 817, Feature 818, Feature 819",$4185,4.2
+Product 818,Home Appliances,"Feature 818, Feature 819, Feature 820",$4190,4.3
+Product 819,Books,"Feature 819, Feature 820, Feature 821",$4195,4.4
+Product 820,Toys,"Feature 820, Feature 821, Feature 822",$4200,4.0
+Product 821,Electronics,"Feature 821, Feature 822, Feature 823",$4205,4.1
+Product 822,Clothing,"Feature 822, Feature 823, Feature 824",$4210,4.2
+Product 823,Home Appliances,"Feature 823, Feature 824, Feature 825",$4215,4.3
+Product 824,Books,"Feature 824, Feature 825, Feature 826",$4220,4.4
+Product 825,Toys,"Feature 825, Feature 826, Feature 827",$4225,4.0
+Product 826,Electronics,"Feature 826, Feature 827, Feature 828",$4230,4.1
+Product 827,Clothing,"Feature 827, Feature 828, Feature 829",$4235,4.2
+Product 828,Home Appliances,"Feature 828, Feature 829, Feature 830",$4240,4.3
+Product 829,Books,"Feature 829, Feature 830, Feature 831",$4245,4.4
+Product 830,Toys,"Feature 830, Feature 831, Feature 832",$4250,4.0
+Product 831,Electronics,"Feature 831, Feature 832, Feature 833",$4255,4.1
+Product 832,Clothing,"Feature 832, Feature 833, Feature 834",$4260,4.2
+Product 833,Home Appliances,"Feature 833, Feature 834, Feature 835",$4265,4.3
+Product 834,Books,"Feature 834, Feature 835, Feature 836",$4270,4.4
+Product 835,Toys,"Feature 835, Feature 836, Feature 837",$4275,4.0
+Product 836,Electronics,"Feature 836, Feature 837, Feature 838",$4280,4.1
+Product 837,Clothing,"Feature 837, Feature 838, Feature 839",$4285,4.2
+Product 838,Home Appliances,"Feature 838, Feature 839, Feature 840",$4290,4.3
+Product 839,Books,"Feature 839, Feature 840, Feature 841",$4295,4.4
+Product 840,Toys,"Feature 840, Feature 841, Feature 842",$4300,4.0
+Product 841,Electronics,"Feature 841, Feature 842, Feature 843",$4305,4.1
+Product 842,Clothing,"Feature 842, Feature 843, Feature 844",$4310,4.2
+Product 843,Home Appliances,"Feature 843, Feature 844, Feature 845",$4315,4.3
+Product 844,Books,"Feature 844, Feature 845, Feature 846",$4320,4.4
+Product 845,Toys,"Feature 845, Feature 846, Feature 847",$4325,4.0
+Product 846,Electronics,"Feature 846, Feature 847, Feature 848",$4330,4.1
+Product 847,Clothing,"Feature 847, Feature 848, Feature 849",$4335,4.2
+Product 848,Home Appliances,"Feature 848, Feature 849, Feature 850",$4340,4.3
+Product 849,Books,"Feature 849, Feature 850, Feature 851",$4345,4.4
+Product 850,Toys,"Feature 850, Feature 851, Feature 852",$4350,4.0
+Product 851,Electronics,"Feature 851, Feature 852, Feature 853",$4355,4.1
+Product 852,Clothing,"Feature 852, Feature 853, Feature 854",$4360,4.2
+Product 853,Home Appliances,"Feature 853, Feature 854, Feature 855",$4365,4.3
+Product 854,Books,"Feature 854, Feature 855, Feature 856",$4370,4.4
+Product 855,Toys,"Feature 855, Feature 856, Feature 857",$4375,4.0
+Product 856,Electronics,"Feature 856, Feature 857, Feature 858",$4380,4.1
+Product 857,Clothing,"Feature 857, Feature 858, Feature 859",$4385,4.2
+Product 858,Home Appliances,"Feature 858, Feature 859, Feature 860",$4390,4.3
+Product 859,Books,"Feature 859, Feature 860, Feature 861",$4395,4.4
+Product 860,Toys,"Feature 860, Feature 861, Feature 862",$4400,4.0
+Product 861,Electronics,"Feature 861, Feature 862, Feature 863",$4405,4.1
+Product 862,Clothing,"Feature 862, Feature 863, Feature 864",$4410,4.2
+Product 863,Home Appliances,"Feature 863, Feature 864, Feature 865",$4415,4.3
+Product 864,Books,"Feature 864, Feature 865, Feature 866",$4420,4.4
+Product 865,Toys,"Feature 865, Feature 866, Feature 867",$4425,4.0
+Product 866,Electronics,"Feature 866, Feature 867, Feature 868",$4430,4.1
+Product 867,Clothing,"Feature 867, Feature 868, Feature 869",$4435,4.2
+Product 868,Home Appliances,"Feature 868, Feature 869, Feature 870",$4440,4.3
+Product 869,Books,"Feature 869, Feature 870, Feature 871",$4445,4.4
+Product 870,Toys,"Feature 870, Feature 871, Feature 872",$4450,4.0
+Product 871,Electronics,"Feature 871, Feature 872, Feature 873",$4455,4.1
+Product 872,Clothing,"Feature 872, Feature 873, Feature 874",$4460,4.2
+Product 873,Home Appliances,"Feature 873, Feature 874, Feature 875",$4465,4.3
+Product 874,Books,"Feature 874, Feature 875, Feature 876",$4470,4.4
+Product 875,Toys,"Feature 875, Feature 876, Feature 877",$4475,4.0
+Product 876,Electronics,"Feature 876, Feature 877, Feature 878",$4480,4.1
+Product 877,Clothing,"Feature 877, Feature 878, Feature 879",$4485,4.2
+Product 878,Home Appliances,"Feature 878, Feature 879, Feature 880",$4490,4.3
+Product 879,Books,"Feature 879, Feature 880, Feature 881",$4495,4.4
+Product 880,Toys,"Feature 880, Feature 881, Feature 882",$4500,4.0
+Product 881,Electronics,"Feature 881, Feature 882, Feature 883",$4505,4.1
+Product 882,Clothing,"Feature 882, Feature 883, Feature 884",$4510,4.2
+Product 883,Home Appliances,"Feature 883, Feature 884, Feature 885",$4515,4.3
+Product 884,Books,"Feature 884, Feature 885, Feature 886",$4520,4.4
+Product 885,Toys,"Feature 885, Feature 886, Feature 887",$4525,4.0
+Product 886,Electronics,"Feature 886, Feature 887, Feature 888",$4530,4.1
+Product 887,Clothing,"Feature 887, Feature 888, Feature 889",$4535,4.2
+Product 888,Home Appliances,"Feature 888, Feature 889, Feature 890",$4540,4.3
+Product 889,Books,"Feature 889, Feature 890, Feature 891",$4545,4.4
+Product 890,Toys,"Feature 890, Feature 891, Feature 892",$4550,4.0
+Product 891,Electronics,"Feature 891, Feature 892, Feature 893",$4555,4.1
+Product 892,Clothing,"Feature 892, Feature 893, Feature 894",$4560,4.2
+Product 893,Home Appliances,"Feature 893, Feature 894, Feature 895",$4565,4.3
+Product 894,Books,"Feature 894, Feature 895, Feature 896",$4570,4.4
+Product 895,Toys,"Feature 895, Feature 896, Feature 897",$4575,4.0
+Product 896,Electronics,"Feature 896, Feature 897, Feature 898",$4580,4.1
+Product 897,Clothing,"Feature 897, Feature 898, Feature 899",$4585,4.2
+Product 898,Home Appliances,"Feature 898, Feature 899, Feature 900",$4590,4.3
+Product 899,Books,"Feature 899, Feature 900, Feature 901",$4595,4.4
+Product 900,Toys,"Feature 900, Feature 901, Feature 902",$4600,4.0
+Product 901,Electronics,"Feature 901, Feature 902, Feature 903",$4605,4.1
+Product 902,Clothing,"Feature 902, Feature 903, Feature 904",$4610,4.2
+Product 903,Home Appliances,"Feature 903, Feature 904, Feature 905",$4615,4.3
+Product 904,Books,"Feature 904, Feature 905, Feature 906",$4620,4.4
+Product 905,Toys,"Feature 905, Feature 906, Feature 907",$4625,4.0
+Product 906,Electronics,"Feature 906, Feature 907, Feature 908",$4630,4.1
+Product 907,Clothing,"Feature 907, Feature 908, Feature 909",$4635,4.2
+Product 908,Home Appliances,"Feature 908, Feature 909, Feature 910",$4640,4.3
+Product 909,Books,"Feature 909, Feature 910, Feature 911",$4645,4.4
+Product 910,Toys,"Feature 910, Feature 911, Feature 912",$4650,4.0
+Product 911,Electronics,"Feature 911, Feature 912, Feature 913",$4655,4.1
+Product 912,Clothing,"Feature 912, Feature 913, Feature 914",$4660,4.2
+Product 913,Home Appliances,"Feature 913, Feature 914, Feature 915",$4665,4.3
+Product 914,Books,"Feature 914, Feature 915, Feature 916",$4670,4.4
+Product 915,Toys,"Feature 915, Feature 916, Feature 917",$4675,4.0
+Product 916,Electronics,"Feature 916, Feature 917, Feature 918",$4680,4.1
+Product 917,Clothing,"Feature 917, Feature 918, Feature 919",$4685,4.2
+Product 918,Home Appliances,"Feature 918, Feature 919, Feature 920",$4690,4.3
+Product 919,Books,"Feature 919, Feature 920, Feature 921",$4695,4.4
+Product 920,Toys,"Feature 920, Feature 921, Feature 922",$4700,4.0
+Product 921,Electronics,"Feature 921, Feature 922, Feature 923",$4705,4.1
+Product 922,Clothing,"Feature 922, Feature 923, Feature 924",$4710,4.2
+Product 923,Home Appliances,"Feature 923, Feature 924, Feature 925",$4715,4.3
+Product 924,Books,"Feature 924, Feature 925, Feature 926",$4720,4.4
+Product 925,Toys,"Feature 925, Feature 926, Feature 927",$4725,4.0
+Product 926,Electronics,"Feature 926, Feature 927, Feature 928",$4730,4.1
+Product 927,Clothing,"Feature 927, Feature 928, Feature 929",$4735,4.2
+Product 928,Home Appliances,"Feature 928, Feature 929, Feature 930",$4740,4.3
+Product 929,Books,"Feature 929, Feature 930, Feature 931",$4745,4.4
+Product 930,Toys,"Feature 930, Feature 931, Feature 932",$4750,4.0
+Product 931,Electronics,"Feature 931, Feature 932, Feature 933",$4755,4.1
+Product 932,Clothing,"Feature 932, Feature 933, Feature 934",$4760,4.2
+Product 933,Home Appliances,"Feature 933, Feature 934, Feature 935",$4765,4.3
+Product 934,Books,"Feature 934, Feature 935, Feature 936",$4770,4.4
+Product 935,Toys,"Feature 935, Feature 936, Feature 937",$4775,4.0
+Product 936,Electronics,"Feature 936, Feature 937, Feature 938",$4780,4.1
+Product 937,Clothing,"Feature 937, Feature 938, Feature 939",$4785,4.2
+Product 938,Home Appliances,"Feature 938, Feature 939, Feature 940",$4790,4.3
+Product 939,Books,"Feature 939, Feature 940, Feature 941",$4795,4.4
+Product 940,Toys,"Feature 940, Feature 941, Feature 942",$4800,4.0
+Product 941,Electronics,"Feature 941, Feature 942, Feature 943",$4805,4.1
+Product 942,Clothing,"Feature 942, Feature 943, Feature 944",$4810,4.2
+Product 943,Home Appliances,"Feature 943, Feature 944, Feature 945",$4815,4.3
+Product 944,Books,"Feature 944, Feature 945, Feature 946",$4820,4.4
+Product 945,Toys,"Feature 945, Feature 946, Feature 947",$4825,4.0
+Product 946,Electronics,"Feature 946, Feature 947, Feature 948",$4830,4.1
+Product 947,Clothing,"Feature 947, Feature 948, Feature 949",$4835,4.2
+Product 948,Home Appliances,"Feature 948, Feature 949, Feature 950",$4840,4.3
+Product 949,Books,"Feature 949, Feature 950, Feature 951",$4845,4.4
+Product 950,Toys,"Feature 950, Feature 951, Feature 952",$4850,4.0
+Product 951,Electronics,"Feature 951, Feature 952, Feature 953",$4855,4.1
+Product 952,Clothing,"Feature 952, Feature 953, Feature 954",$4860,4.2
+Product 953,Home Appliances,"Feature 953, Feature 954, Feature 955",$4865,4.3
+Product 954,Books,"Feature 954, Feature 955, Feature 956",$4870,4.4
+Product 955,Toys,"Feature 955, Feature 956, Feature 957",$4875,4.0
+Product 956,Electronics,"Feature 956, Feature 957, Feature 958",$4880,4.1
+Product 957,Clothing,"Feature 957, Feature 958, Feature 959",$4885,4.2
+Product 958,Home Appliances,"Feature 958, Feature 959, Feature 960",$4890,4.3
+Product 959,Books,"Feature 959, Feature 960, Feature 961",$4895,4.4
+Product 960,Toys,"Feature 960, Feature 961, Feature 962",$4900,4.0
+Product 961,Electronics,"Feature 961, Feature 962, Feature 963",$4905,4.1
+Product 962,Clothing,"Feature 962, Feature 963, Feature 964",$4910,4.2
+Product 963,Home Appliances,"Feature 963, Feature 964, Feature 965",$4915,4.3
+Product 964,Books,"Feature 964, Feature 965, Feature 966",$4920,4.4
+Product 965,Toys,"Feature 965, Feature 966, Feature 967",$4925,4.0
+Product 966,Electronics,"Feature 966, Feature 967, Feature 968",$4930,4.1
+Product 967,Clothing,"Feature 967, Feature 968, Feature 969",$4935,4.2
+Product 968,Home Appliances,"Feature 968, Feature 969, Feature 970",$4940,4.3
+Product 969,Books,"Feature 969, Feature 970, Feature 971",$4945,4.4
+Product 970,Toys,"Feature 970, Feature 971, Feature 972",$4950,4.0
+Product 971,Electronics,"Feature 971, Feature 972, Feature 973",$4955,4.1
+Product 972,Clothing,"Feature 972, Feature 973, Feature 974",$4960,4.2
+Product 973,Home Appliances,"Feature 973, Feature 974, Feature 975",$4965,4.3
+Product 974,Books,"Feature 974, Feature 975, Feature 976",$4970,4.4
+Product 975,Toys,"Feature 975, Feature 976, Feature 977",$4975,4.0
+Product 976,Electronics,"Feature 976, Feature 977, Feature 978",$4980,4.1
+Product 977,Clothing,"Feature 977, Feature 978, Feature 979",$4985,4.2
+Product 978,Home Appliances,"Feature 978, Feature 979, Feature 980",$4990,4.3
+Product 979,Books,"Feature 979, Feature 980, Feature 981",$4995,4.4
+Product 980,Toys,"Feature 980, Feature 981, Feature 982",$5000,4.0
+Product 981,Electronics,"Feature 981, Feature 982, Feature 983",$5005,4.1
+Product 982,Clothing,"Feature 982, Feature 983, Feature 984",$5010,4.2
+Product 983,Home Appliances,"Feature 983, Feature 984, Feature 985",$5015,4.3
+Product 984,Books,"Feature 984, Feature 985, Feature 986",$5020,4.4
+Product 985,Toys,"Feature 985, Feature 986, Feature 987",$5025,4.0
+Product 986,Electronics,"Feature 986, Feature 987, Feature 988",$5030,4.1
+Product 987,Clothing,"Feature 987, Feature 988, Feature 989",$5035,4.2
+Product 988,Home Appliances,"Feature 988, Feature 989, Feature 990",$5040,4.3
+Product 989,Books,"Feature 989, Feature 990, Feature 991",$5045,4.4
+Product 990,Toys,"Feature 990, Feature 991, Feature 992",$5050,4.0
+Product 991,Electronics,"Feature 991, Feature 992, Feature 993",$5055,4.1
+Product 992,Clothing,"Feature 992, Feature 993, Feature 994",$5060,4.2
+Product 993,Home Appliances,"Feature 993, Feature 994, Feature 995",$5065,4.3
+Product 994,Books,"Feature 994, Feature 995, Feature 996",$5070,4.4
+Product 995,Toys,"Feature 995, Feature 996, Feature 997",$5075,4.0
+Product 996,Electronics,"Feature 996, Feature 997, Feature 998",$5080,4.1
+Product 997,Clothing,"Feature 997, Feature 998, Feature 999",$5085,4.2
+Product 998,Home Appliances,"Feature 998, Feature 999, Feature 1000",$5090,4.3
+Product 999,Books,"Feature 999, Feature 1000, Feature 1001",$5095,4.4
+Product 1000,Toys,"Feature 1000, Feature 1001, Feature 1002",$5100,4.0
