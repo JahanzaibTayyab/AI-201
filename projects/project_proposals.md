@@ -436,7 +436,7 @@ Tools: Flask, Django, or Node.js.
 
 **Preferred Supervised Faculty Member:** N/A
 
-**Project Feedback Link:** [Feedback](https://github.com/JahanzaibTayyab/AI-201/tree/main/projects/project_propsal/SmartChef:_AI-Powered_Recipe_Recommendation_System.md)
+**Project Feedback Link:** [Feedback](https://github.com/JahanzaibTayyab/AI-201/blob/main/projects/project_propsal/SmartChef%3A%20AI-Powered%20Recipe%20Recommendation%20System%22.md)
 
 ---
 
@@ -473,7 +473,7 @@ Enhance the system with future features like nutrition database integration, hea
 **AI Technologies and Tools:**
 I will use advanced AI technologies for content creation, interactive user guidance, and intelligent data management to enhance the system's ability to generate personalized workout and meal plans. These AI-driven tools will continuously improve the user experience, making recommendations more accurate, dynamic, and tailored to individual needs.
 
-**Preferred Supervised Faculty Member:** N/A
+**Preferred Supervised Faculty Member:** Sir Jahanzaib
 
 **Project Feedback Link:** [Feedback](https://github.com/JahanzaibTayyab/AI-201/tree/main/projects/project_propsal/AI-Powered_Personalized_Fitness,_Diet_Planner_and_Medical_Assistant.md)
 
@@ -502,7 +502,7 @@ Frameworks : LangChain
 Libraries : Google Maps API, OpenWeatherMap API, OpenTripMap API etc
 Tools: Jupyter Notebook, Google Colab
 
-**Preferred Supervised Faculty Member:** N/A
+**Preferred Supervised Faculty Member:** Sir Kamran
 
 **Project Feedback Link:** [Feedback](https://github.com/JahanzaibTayyab/AI-201/tree/main/projects/project_propsal/AI_Powered_Travel_Itinerary_Planner.md)
 
@@ -530,7 +530,7 @@ Enable efficient post scheduling, optimization, and performance tracking.
 **AI Technologies and Tools:**
 LangChain, Llama 3.2 or Gemini Flash 2.0, Streamlit
 
-**Preferred Supervised Faculty Member:** N/A
+**Preferred Supervised Faculty Member:** Sir Jahanzaib
 
 **Project Feedback Link:** [Feedback](https://github.com/JahanzaibTayyab/AI-201/tree/main/projects/project_propsal/AI-Powered_LinkedIn_Content_Generator.md)
 
@@ -558,7 +558,7 @@ Node for backend
 Mongo for database
 Langchain for personal issues that LLM don't have with RAG integration
 
-**Preferred Supervised Faculty Member:** N/A
+**Preferred Supervised Faculty Member:** Sir Jahanzaib
 
 **Project Feedback Link:** [Feedback](https://github.com/JahanzaibTayyab/AI-201/tree/main/projects/project_propsal/AI_Powered_Customer_Service_Agent_for_E-commerce_Business.md)
 
@@ -581,7 +581,7 @@ Chatbot, AI agent.
 **AI Technologies and Tools:**
 Generative AI, CrewAI, and LangChain will be used to make the project
 
-**Preferred Supervised Faculty Member:** N/A
+**Preferred Supervised Faculty Member:** Sir Kamran
 
 **Project Feedback Link:** [Feedback](https://github.com/JahanzaibTayyab/AI-201/tree/main/projects/project_propsal/AI_Solution_for_Lending.md)
 
@@ -607,7 +607,7 @@ Create an AI assistant for authors that suggests plot ideas, edits grammar, or g
 **AI Technologies and Tools:**
 Gen Ai
 
-**Preferred Supervised Faculty Member:** N/A
+**Preferred Supervised Faculty Member:** Sir Jahanzaib
 
 **Project Feedback Link:** [Feedback](https://github.com/JahanzaibTayyab/AI-201/tree/main/projects/project_propsal/Creative_Writing_Assistant_for_writers,_students_or_content_creators.md)
 
@@ -648,7 +648,7 @@ For automating workflows like sending reminders, generating follow-up plans, and
 YouTube API:
 To fetch and embed exercise demonstration videos matching the suggested workouts for easy user access.
 
-**Preferred Supervised Faculty Member:** N/A
+**Preferred Supervised Faculty Member:** Sir Jahanzaib
 
 **Project Feedback Link:** [Feedback](https://github.com/JahanzaibTayyab/AI-201/tree/main/projects/project_propsal/Custom_Workout_Routine_Generator.md)
 
@@ -674,7 +674,7 @@ Create a basic user interface for user interaction and story presentation.
 **AI Technologies and Tools:**
 Python, LangChain, LangGraph, and the Gemini LLM, Next.JS, FastAPI
 
-**Preferred Supervised Faculty Member:** N/A
+**Preferred Supervised Faculty Member:** Sir Kamran
 
 **Project Feedback Link:** [Feedback](https://github.com/JahanzaibTayyab/AI-201/tree/main/projects/project_propsal/DaastanAi.md)
 
@@ -740,7 +740,7 @@ Backend Frameworks
 
 Integrate with cloud services like AWS Lex, Microsoft Azure AI, or Google Dialogflow for robust and scalable backend operations.
 
-**Preferred Supervised Faculty Member:** N/A
+**Preferred Supervised Faculty Member:** Sir Kamran
 
 **Project Feedback Link:** [Feedback](https://github.com/JahanzaibTayyab/AI-201/tree/main/projects/project_propsal/Autonomous_Customer_Support_Agent.md)
 
@@ -804,7 +804,7 @@ Backend Frameworks
 
 Integrate with cloud services like AWS Lex, Microsoft Azure AI, or Google Dialogflow for robust and scalable backend operations.
 
-**Preferred Supervised Faculty Member:** N/A
+**Preferred Supervised Faculty Member:** Sir Kamran
 
 **Project Feedback Link:** [Feedback](https://github.com/JahanzaibTayyab/AI-201/tree/main/projects/project_propsal/_Autonomous_Customer_Support_Agent.md)
 
@@ -831,7 +831,7 @@ This project aims to develop an Ai-powered medical assistant that will help to d
 **AI Technologies and Tools:**
 GPT, Crew Ai
 
-**Preferred Supervised Faculty Member:** N/A
+**Preferred Supervised Faculty Member:** Sir Jahanzaib
 
 **Project Feedback Link:** [Feedback](https://github.com/JahanzaibTayyab/AI-201/tree/main/projects/project_propsal/AI_Diagnosis_Assistant_.md)
 
@@ -862,7 +862,7 @@ Generative AI (GPT) for content creation
 CrewAI for agent interaction
 Knowledge Graph with Graph Databases and GQL
 
-**Preferred Supervised Faculty Member:** N/A
+**Preferred Supervised Faculty Member:** Sir Junaid
 
 **Project Feedback Link:** [Feedback](https://github.com/JahanzaibTayyab/AI-201/tree/main/projects/project_propsal/Ai_powered_trip_planner.md)
 
@@ -890,7 +890,7 @@ This project aims to streamline the process of booking doctor appointments using
 **AI Technologies and Tools:**
 CrewAI for agent interaction
 
-**Preferred Supervised Faculty Member:** N/A
+**Preferred Supervised Faculty Member:** Sir Jahanzaib
 
 **Project Feedback Link:** [Feedback](https://github.com/JahanzaibTayyab/AI-201/tree/main/projects/project_propsal/AI-Powered_Doctor_Booking_Agent.md)
 
@@ -917,7 +917,7 @@ A Content Generator for Personalized Marketing uses AI to create customized mark
 **AI Technologies and Tools:**
 1.Generative AI (GPT) for content creation 2. CrewAI for agent interaction 3. Knowledge Graph with Graph Databases and GQL
 
-**Preferred Supervised Faculty Member:** N/A
+**Preferred Supervised Faculty Member:** Sir Hassan
 
 **Project Feedback Link:** [Feedback](https://github.com/JahanzaibTayyab/AI-201/tree/main/projects/project_propsal/Content_Generator_for_Personalized_Marketing.md)
 
@@ -950,7 +950,7 @@ Generative AI (GPT) for content creation
 CrewAI for agent interaction
 Knowledge Graph with Graph Databases and GQL
 
-**Preferred Supervised Faculty Member:** N/A
+**Preferred Supervised Faculty Member:** Sir Hassan
 
 **Project Feedback Link:** [Feedback](https://github.com/JahanzaibTayyab/AI-201/tree/main/projects/project_propsal/Content_Generator_for_Personalized_Marketing.md)
 
@@ -980,7 +980,7 @@ Generative AI (GPT) for content creation
 CrewAI for agent interaction
 Knowledge Graph with Graph Databases and GQL
 
-**Preferred Supervised Faculty Member:** N/A
+**Preferred Supervised Faculty Member:** Sir Hassan
 
 **Project Feedback Link:** [Feedback](https://github.com/JahanzaibTayyab/AI-201/tree/main/projects/project_propsal/Content_Generator_for_Personalized_Marketing.md)
 
@@ -1036,7 +1036,7 @@ Fine-Tuning: Fine-tune pre-trained models (such as GPT or BERT) on legal-specifi
 
 Knowledge Graph: Integrate a knowledge graph to map legal concepts, clauses, and relationships between different types of legal documents to improve contextual understanding.
 
-**Preferred Supervised Faculty Member:** N/A
+**Preferred Supervised Faculty Member:** Sir Jahanzaib
 
 **Project Feedback Link:** [Feedback](https://github.com/JahanzaibTayyab/AI-201/tree/main/projects/project_propsal/RAG_AI_Legal_Draft_Application.md)
 
@@ -1064,7 +1064,7 @@ Generative AI (GPT) for content creation
 Tavily,google-trends-api, or beautifulsoup4 (web scraping).  
 for trend detection
 
-**Preferred Supervised Faculty Member:** N/A
+**Preferred Supervised Faculty Member:** Sir Kamran
 
 **Project Feedback Link:** [Feedback](https://github.com/JahanzaibTayyab/AI-201/tree/main/projects/project_propsal/Viral_Visions:_AI-Driven_Trend_Detection_and_Content_Creation.md)
 
@@ -1091,7 +1091,7 @@ AI chatbot using CrewAI that can handle customer inquiries.
 **AI Technologies and Tools:**
 CrewAI
 
-**Preferred Supervised Faculty Member:** N/A
+**Preferred Supervised Faculty Member:** Sir Jahanzaib
 
 **Project Feedback Link:** [Feedback](https://github.com/JahanzaibTayyab/AI-201/tree/main/projects/project_propsal/AI-Powered_Customer_Support_Agent.md)
 
@@ -1125,7 +1125,7 @@ Bright Data: To gather LinkedIn post datasets.
 Grok Cloud: For scalable AI model inference.
 Python Libraries
 
-**Preferred Supervised Faculty Member:** N/A
+**Preferred Supervised Faculty Member:** Sir Jahanzaib
 
 **Project Feedback Link:** [Feedback](https://github.com/JahanzaibTayyab/AI-201/tree/main/projects/project_propsal/AI-Powered_LinkedIn_Content_Generator.md)
 
@@ -1154,7 +1154,7 @@ Enable efficient post scheduling, optimization, and performance tracking.
 **AI Technologies and Tools:**
 This system will utilize LangChain, Llama 3.2 or Gemini Flash 2.0, Streamlit, and other advanced tools for text generation, data processing, and user interface development. Additionally, Grok Cloud will facilitate efficient model inference, and Bright Data will support automated data collection
 
-**Preferred Supervised Faculty Member:** N/A
+**Preferred Supervised Faculty Member:** Sir Jahanzaib
 
 **Project Feedback Link:** [Feedback](https://github.com/JahanzaibTayyab/AI-201/tree/main/projects/project_propsal/AI-Powered_LinkedIn_Content_Generator.md)
 
@@ -1194,7 +1194,7 @@ Enhance the system with future features like nutrition database integration, hea
 **AI Technologies and Tools:**
 I will use advanced AI technologies for content creation, interactive user guidance, and intelligent data management to enhance the system's ability to generate personalized workout and meal plans. These AI-driven tools will continuously improve the user experience, making recommendations more accurate, dynamic, and tailored to individual needs.
 
-**Preferred Supervised Faculty Member:** N/A
+**Preferred Supervised Faculty Member:** Sir Kamran
 
 **Project Feedback Link:** [Feedback](https://github.com/JahanzaibTayyab/AI-201/tree/main/projects/project_propsal/AI-Powered_Personalized_Fitness,_Diet_Planner_and_Medical_Assistant.md)
 
@@ -1223,7 +1223,7 @@ Generative AI (GPT) for content creation
 CrewAI for agent interaction
 Knowledge Graph with Graph Databases and GQL
 
-**Preferred Supervised Faculty Member:** N/A
+**Preferred Supervised Faculty Member:** Sir Jahanzaib
 
 **Project Feedback Link:** [Feedback](https://github.com/JahanzaibTayyab/AI-201/tree/main/projects/project_propsal/Content_Generator_for_Personalized_Marketing.md)
 
@@ -1251,7 +1251,7 @@ Generative AI (GPT) for content creation
 CrewAI for agent interaction
 Langchain and Google map
 
-**Preferred Supervised Faculty Member:** N/A
+**Preferred Supervised Faculty Member:** Sir Hassan
 
 **Project Feedback Link:** [Feedback](https://github.com/JahanzaibTayyab/AI-201/tree/main/projects/project_propsal/AI-Powered_Traveling_Agent.md)
 
