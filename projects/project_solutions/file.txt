@@ -1,0 +1,20 @@
+Q: How do I reset my password?
+A: To reset your password, click on the 'Forgot Password' link on the login page and follow the instructions.
+
+Q: What is the return policy?
+A: Our return policy allows returns within 30 days of purchase. Items must be unused and in original packaging.
+
+Q: How do I contact customer support?
+A: You can contact customer support via email at support@company.com or call us at +1-800-555-0199.
+
+Q: What payment methods are accepted?
+A: We accept credit cards, debit cards, and PayPal. For business accounts, we also offer invoicing.
+
+Q: How long does shipping take?
+A: Standard shipping takes 5-7 business days. Expedited shipping options are available at checkout.
+
+Q: Can I track my order?
+A: Yes, once your order is shipped, you will receive a tracking link via email.
+
+Q: Do you offer international shipping?
+A: Yes, we offer international shipping to most countries. Delivery times vary depending on the destination.
