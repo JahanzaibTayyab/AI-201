@@ -1,0 +1,14 @@
+langchain
+pinecone
+pinecone-client
+google-generativeai 
+openai 
+tqdm 
+chromadb 
+langchain_community 
+langchain-google-genai 
+pypdf 
+PyPDF2
+pinecone-notebooks
+bs4
+tiktoken
