@@ -1,0 +1,17 @@
+[project]
+name = "uv-explore"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Hassan Ali Khan", email = "73381969+hassan-ak@users.noreply.github.com" }
+]
+requires-python = ">=3.12"
+dependencies = []
+
+[project.scripts]
+uv-explore = "uv_explore:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"

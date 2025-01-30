@@ -1,0 +1,21 @@
+[project]
+name = "llmlite"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Hassan Ali Khan", email = "73381969+hassan-ak@users.noreply.github.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "litellm>=1.59.8",
+]
+
+[project.scripts]
+llmlite = "llmlite:main"
+gemini = "llmlite.main:gemini"
+groq = "llmlite.main:groq"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
