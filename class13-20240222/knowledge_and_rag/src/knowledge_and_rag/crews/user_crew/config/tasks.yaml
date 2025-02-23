@@ -1,0 +1,6 @@
+answer_question:
+  description: >
+    Answer the following questions about the user: {question}
+  expected_output: >
+    An answer to the question.
+  agent: about_user
